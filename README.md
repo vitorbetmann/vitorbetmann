@@ -7,9 +7,6 @@
 <p>
   My main interest is abstracting complicated or repetitive processes by making tools and systems for others, but I also love understanting how things work under the hood, so you'll see me dabbing into low-level programming from time to time. 
 </p>
-<p>
-  Feel free to connect with me on [LinkedIn](https://linkedin.com/in/vitorbetmann) and check out my games on [Itch.io](https://vitorbetmann/itch.io)
-</p>
 
 <br>
 <h2 align="center"><em>“It's time to code things and chew bubblegum... and I'm all out of gum.”</em></h2>
