@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Vitor Betmann</h1>
-<p align="right"><em>“Stay awhile and readme.”</em></p>
+<!-- <h1 align="center">Hello, I'm Vitor Betmann</h1> -->
+<h2 align="center"><em>“Stay awhile and readme.”</em></h2>
 <p align="right"><strong><em>Deckard Cain (Diablo, 1997)</em></strong></p>
 
 <p>
@@ -12,27 +12,28 @@
   If you’re looking for someone who bridges the creative and the technical, I’d love to connect. Get in touch!
 </p>
 
-<h2 align="center">Projects and Interests and Miscellaneous</h2>
-<p align="right"><em>“It's time to code things and chew bubblegum... and I'm all out of gum.”</em></p>
+<br>
+<!-- <h2 align="center">Projects and Interests and Miscellaneous</h2> -->
+<h2 align="center"><em>“It's time to code things and chew bubblegum... and I'm all out of gum.”</em></h2>
 <p align="right"><strong><em>Duke Nukem (Duke Nukem 3D, 1996)</em></strong></p>
 
 - 💡 **Building**:
   - A full stack project... More in a bit
   - [Smile](https://github.com/vitorbetmann/smile), an open-source, modular C library for 2D game development
 - 📚 **Learning**: `django`, `React`, `PostgreSQL`, `GitHub Actions`, `Selenium`
-- 😍 **Likes**: `Computer Graphics`, `Coffee Shops`, `Winter`, `Resident Evil`
 - ⚡️ **Trivia**: While in university, most people didn't know I had a Mechanical Engineering background, so it was always funny seeing them wonder how a Cinema student managed to win [two robotics competitions](https://github.com/vitorbetmann/Robot_Sumo)
 
-<h2 align="center">Skills</h2>
-<p align="right"><em>“All your codebase are belong to us.”</em></p>
+<br>
+<!-- <h2 align="center">Skills</h2> -->
+<h2 align="center"><em>“All your codebase are belong to us.”</em></h2>
 <p align="right"><strong><em>CATS (Zero Wing, 1991)</em></strong></p>
 
-<h3>Programming Languages</h3>
+<h4>Programming Languages</h4>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,sql"/>
 
-<h3>Frameworks, Tools, and Game Engines</h3>
+<h4>Frameworks, Tools, and Game Engines</h4>
 <img src="https://skillicons.dev/icons?i=arduino,bootstrap,cmake,django,docker,git,github,githubactions,postman,react,selenium,unity"/>
 
-<h3>Databases</h3>
+<h4>Databases</h4>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
 
