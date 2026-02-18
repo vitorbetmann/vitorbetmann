@@ -20,7 +20,7 @@
   - A full stack project... More in a bit
   - [Smile](https://github.com/vitorbetmann/smile), an open-source, modular C library for 2D game development
 - 📚 What I'm Learning: `django`, `React`, `PostgreSQL`, `GitHub Actions`, `Selenium`
-- 😍 Likes: Computer Graphics, Coffee Shops, Winter, Resident Evil
+- 😍 Likes: `Computer Graphics`, `Coffee Shops`, `Winter`, `Resident Evil`
 - 🤣 Trivia about me: While in university, most people didn't know I had a background in Mechanical Engineering, so it was always funny seeing them wonder how a Cinema student managed to win [2 robotics competitions](https://github.com/vitorbetmann/Robot_Sumo)
 
 <h2 align="center">Skills</h2>
