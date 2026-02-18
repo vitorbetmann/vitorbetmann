@@ -1,4 +1,3 @@
-<!-- <h1 align="center">Hello, I'm Vitor Betmann</h1> -->
 <h2 align="center"><em>“Stay awhile and readme.”</em></h2>
 <p align="right"><strong><em>Deckard Cain (Diablo, 1997)</em></strong></p>
 
@@ -6,14 +5,10 @@
   With a backgrounds in engineering and cinema, I blend creative vision with technical precision to build tools, systems, and games.
 </p>
 <p>
-  My main interest is abstracting complicated/repetitive processes by making tools and systems for others, but I also love understanting how things work under the hood, so you'll see me dabbing into low-level programming from time to time.
-</p>
-<p>
-  If you’re looking for someone who bridges the creative and the technical, I’d love to connect. Get in touch!
+  My main interest is abstracting complicated or repetitive processes by making tools and systems for others, but I also love understanting how things work under the hood, so you'll see me dabbing into low-level programming from time to time. 
 </p>
 
 <br>
-<!-- <h2 align="center">Projects and Interests and Miscellaneous</h2> -->
 <h2 align="center"><em>“It's time to code things and chew bubblegum... and I'm all out of gum.”</em></h2>
 <p align="right"><strong><em>Duke Nukem (Duke Nukem 3D, 1996)</em></strong></p>
 
@@ -25,7 +20,6 @@
 - 🎯 2026 Goal: Develop a mobile app or game.
 
 <br>
-<!-- <h2 align="center">Skills</h2> -->
 <h2 align="center"><em>“All your codebase are belong to us.”</em></h2>
 <p align="right"><strong><em>CATS (Zero Wing, 1991)</em></strong></p>
 
