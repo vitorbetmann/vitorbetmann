@@ -17,11 +17,12 @@
 <h2 align="center"><em>“It's time to code things and chew bubblegum... and I'm all out of gum.”</em></h2>
 <p align="right"><strong><em>Duke Nukem (Duke Nukem 3D, 1996)</em></strong></p>
 
-- 💡 **Building**:
-  - A full stack project... More in a bit
+- 🚀 Currenlty working on 2 major projects:
+  - A full stack project... More in the next few days
   - [Smile](https://github.com/vitorbetmann/smile), an open-source, modular C library for 2D game development
-- 📚 **Learning**: `django`, `React`, `PostgreSQL`, `Docker`, `GitHub Actions`, `Selenium`
-- ⚡️ **Trivia**: While in university, most people didn't know I had a Mechanical Engineering background, so it was always funny seeing them wonder how a Cinema student managed to win [two robotics competitions](https://github.com/vitorbetmann/Robot_Sumo)
+- 📚 Currently learning `django`, `React`, `PostgreSQL`, `Docker`, `GitHub Actions`, and `Selenium`
+- 🤖 It was always funny seeing others wonder how a Cinema student won [two robotics competitions](https://github.com/vitorbetmann/Robot_Sumo)... They didn't know about my Engineering background
+- 🎯 2026 Goal: Develop a mobile app or game
 
 <br>
 <!-- <h2 align="center">Skills</h2> -->
