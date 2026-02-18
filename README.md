@@ -6,7 +6,7 @@
   With a backgrounds in engineering and cinema, I blend creative vision with technical precision to build tools, systems, and games.
 </p>
 <p>
-  My main interest is abstracting complicated/repetitive processes by making tools, but I also love understanting how things work under the hood, so you'll see me dabbing into low-level programming from time to time.
+  My main interest is abstracting complicated/repetitive processes by making tools and systems for others, but I also love understanting how things work under the hood, so you'll see me dabbing into low-level programming from time to time.
 </p>
 <p>
   If you’re looking for someone who bridges the creative and the technical, I’d love to connect. Get in touch!
