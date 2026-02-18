@@ -25,7 +25,7 @@
 
 <h2 align="center">Skills</h2>
 <p align="right"><em>“All your codebase are belong to us.”</em></p>
-<p align="right"><strong><em>Cats (Zero Wing, 1991)</em></strong></p>
+<p align="right"><strong><em>CATS (Zero Wing, 1991)</em></strong></p>
 
 <h3>Programming Languages</h3>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,sql"/>
