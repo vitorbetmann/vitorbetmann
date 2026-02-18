@@ -20,7 +20,7 @@
 - 💡 **Building**:
   - A full stack project... More in a bit
   - [Smile](https://github.com/vitorbetmann/smile), an open-source, modular C library for 2D game development
-- 📚 **Learning**: `django`, `React`, `PostgreSQL`, `GitHub Actions`, `Selenium`
+- 📚 **Learning**: `django`, `React`, `PostgreSQL`, `Docker`, `GitHub Actions`, `Selenium`
 - ⚡️ **Trivia**: While in university, most people didn't know I had a Mechanical Engineering background, so it was always funny seeing them wonder how a Cinema student managed to win [two robotics competitions](https://github.com/vitorbetmann/Robot_Sumo)
 
 <br>
