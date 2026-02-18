@@ -21,7 +21,7 @@
   - A full stack project... More in the next few days.
   - [Smile](https://github.com/vitorbetmann/smile), an open-source, modular C library for 2D game development.
 - 📚 Currently learning `django`, `React`, `PostgreSQL`, `Docker`, `GitHub Actions`, and `Selenium`.
-- 🤖 It was always funny seeing other students wonder how a Cinema major won [two robotics competitions](https://github.com/vitorbetmann/Robot_Sumo)... They didn't know about my Engineering background.
+- 🤖 I like to mess around with robotics and even won [two robotics competitions](https://github.com/vitorbetmann/Robot_Sumo) when in university.
 - 🎯 2026 Goal: Develop a mobile app or game.
 
 <br>
