@@ -16,12 +16,12 @@
 <p align="right"><em>“It's time to code things and chew bubblegum... and I'm all out of gum.”</em></p>
 <p align="right"><strong><em>Duke Nukem (Duke Nukem 3D, 1996)</em></strong></p>
 
-- 💡 What I'm Building:
+- 💡 **Building**:
   - A full stack project... More in a bit
   - [Smile](https://github.com/vitorbetmann/smile), an open-source, modular C library for 2D game development
-- 📚 What I'm Learning: `django`, `React`, `PostgreSQL`, `GitHub Actions`, `Selenium`
-- 😍 Likes: `Computer Graphics`, `Coffee Shops`, `Winter`, `Resident Evil`
-- 🤣 Trivia about me: While in university, most people didn't know I had a background in Mechanical Engineering, so it was always funny seeing them wonder how a Cinema student managed to win [2 robotics competitions](https://github.com/vitorbetmann/Robot_Sumo)
+- 📚 **Learning**: `django`, `React`, `PostgreSQL`, `GitHub Actions`, `Selenium`
+- 😍 **Likes**: `Computer Graphics`, `Coffee Shops`, `Winter`, `Resident Evil`
+- ⚡️ **Trivia**: While in university, most people didn't know I had a Mechanical Engineering background, so it was always funny seeing them wonder how a Cinema student managed to win [two robotics competitions](https://github.com/vitorbetmann/Robot_Sumo)
 
 <h2 align="center">Skills</h2>
 <p align="right"><em>“All your codebase are belong to us.”</em></p>
