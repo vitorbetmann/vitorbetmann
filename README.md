@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Vitor Betmann</h1>
-<p align="right"><em>“Hello, my friend! Stay awhile and readme.”</em></p>
+<p align="right"><em>“Stay awhile and readme.”</em></p>
 <p align="right"><strong><em>Deckard Cain (Diablo, 1997)</em></strong></p>
 
 <p>
