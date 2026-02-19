@@ -19,7 +19,7 @@ Feel free to check out my games on 🕹️ [itch.io](https://vitorbetmann.itch.i
   - [Smile](https://github.com/vitorbetmann/smile), an open-source, modular C library for 2D game development.
 - 📚 Currently learning `django`, `React`, `PostgreSQL`, `Docker`, `GitHub Actions`, and `Selenium`.
 - 🤖 I like to mess around with robotics and even won [two robotics competitions](https://github.com/vitorbetmann/Robot_Sumo) when in university.
-- 🎯 2026 Goal: Develop a mobile app or game.
+- 🎯 2026 Goal: Develop a mobile app in ReactNative
 
 <br>
 <h2 align="center"><em>“All your codebase are belong to us.”</em></h2>
