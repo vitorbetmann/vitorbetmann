@@ -1,7 +1,7 @@
 <h2 align="center"><em>“Stay awhile and readme.”</em></h2>
 <p align="right"><strong><em>Deckard Cain (Diablo, 1997)</em></strong></p>
 
-- 🦆 With backgrounds in engineering and cinema, I blend creative vision with technical precision to build tools, systems, and games
+- 👤 With backgrounds in engineering and cinema, I blend creative vision with technical precision to build tools, systems, and games
 - 📚 Currently learning `django`, `React`, `PostgreSQL`, `Docker`, `GitHub Actions`, `Postman` and `Selenium`
 - 🕹️ Check out my games on [itch.io](https://vitorbetmann.itch.io)
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/vitorbetmann/)
