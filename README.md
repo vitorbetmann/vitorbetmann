@@ -1,7 +1,7 @@
 <h2 align="center"><em>“Stay awhile and readme.”</em></h2>
 <p align="right"><strong><em>Deckard Cain (Diablo, 1997)</em></strong></p>
 
-- 👤 I build backend systems, tools, and games
+- 👤 I architect secure, scalable backend systems; build tools that make others’ lives easier, and; also experiment with game design in my own game projects
 - 📚 Currently learning `django`, `React`, `PostgreSQL`, `Docker`, `GitHub Actions`, `Postman` and `Selenium`
 - 🕹️ Check out my games on [itch.io](https://vitorbetmann.itch.io)
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/vitorbetmann/)
@@ -11,8 +11,7 @@
 <h2 align="center"><em>“It's time to code things and chew bubblegum... and I'm all out of gum.”</em></h2>
 <p align="right"><strong><em>Duke Nukem (Duke Nukem 3D, 1996)</em></strong></p>
 
-I architect secure, scalable backend systems and build tools that make others’ lives easier. I also experiment with game design in my own game projects, and enjoy exploring low-level programming to better understand how things work under the hood. 
-#### Below are the projects I’m most proud of and that best represent me as a programmer:
+#### What I love the most is learning. Learning how things work, learning how to be more efficient, learning what's possible!<br>All through coding.<br>Below are the projects I’m most proud of and that best represent me as a programmer:
 
 ### 👀 [Upcoming Full Stack Project]():
 Stay tuned for more!
