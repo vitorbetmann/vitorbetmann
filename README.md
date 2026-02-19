@@ -20,7 +20,7 @@ Stay tuned for more!
 Smile is a cross-platform (Mac and Windows) library that streamlines common game development tasks such as managing scenes, simulating particles, and saving/loading. Ideal for game jams and rapid prototyping.
 
 ### 🤖 [Sumobots](https://github.com/vitorbetmann/sumobot), i.e., Sumo-Fighting Robots:
-Two Arduino-based robots that won me two competitions while I was in university. It was funny seeing people wonder how a Cinema student was able to win 2 competitions in a row. They didn't know about my Engineering background...
+Arduino-based robots that won me two competitions while I was in university. It was funny seeing people wonder how a Cinema student was able to win 2 competitions in a row. They didn't know about my Engineering background...
 
 <br>
 <h2 align="center"><em>“All your codebase are belong to us.”</em></h2>
