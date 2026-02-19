@@ -1,7 +1,7 @@
 <h2 align="center"><em>“Stay awhile and readme.”</em></h2>
 <p align="right"><strong><em>Deckard Cain (Diablo, 1997)</em></strong></p>
 
-- 👤 I build tools, systems, and games
+- 👤 I build backend systems, tools, and games
 - 📚 Currently learning `django`, `React`, `PostgreSQL`, `Docker`, `GitHub Actions`, `Postman` and `Selenium`
 - 🕹️ Check out my games on [itch.io](https://vitorbetmann.itch.io)
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/vitorbetmann/)
@@ -11,10 +11,18 @@
 <h2 align="center"><em>“It's time to code things and chew bubblegum... and I'm all out of gum.”</em></h2>
 <p align="right"><strong><em>Duke Nukem (Duke Nukem 3D, 1996)</em></strong></p>
 
+I architect secure, scalable backend systems and build tools that make others’ lives easier. I also experiment with game design in my own game projects, and enjoy exploring low-level programming to better understand how things work under the hood. 
+#### Below are the projects I’m most proud of and that best represent me as a programmer:
 
-- A full stack project... More in the next few days
-- [Smile](https://github.com/vitorbetmann/smile), an open-source, modular C library for 2D game development
-- 🤖 I like to mess around with robotics and even won [two robotics competitions](https://github.com/vitorbetmann/Robot_Sumo) when in university
+### 👀 [Upcoming Full Stack Project]():
+Stay tuned for more!
+
+### 😊 [Smile](https://github.com/vitorbetmann/smile), an open-source, modular C library for 2D game development:
+Smile is a cross-platform (Mac and Windows) library that streamlines common game development tasks such as managing scenes, simulating particles, and saving/loading. Ideal for game jams and rapid prototyping.
+
+### 🤖 [Sumobots](https://github.com/vitorbetmann/sumobot), i.e., Sumo-Fighting Robots:
+Two Arduino-based robots that won me two competitions while I was in university. It was funny seeing people wonder how a Cinema student was able to win 2 competitions in a row. They didn't know about my Engineering background...
+
 <br>
 <h2 align="center"><em>“All your codebase are belong to us.”</em></h2>
 <p align="right"><strong><em>CATS (Zero Wing, 1991)</em></strong></p>
