@@ -1,7 +1,7 @@
 <h2 align="center"><em>“Stay awhile and readme.”</em></h2>
 <p align="right"><strong><em>Deckard Cain (Diablo, 1997)</em></strong></p>
 
-- 👤 I architect secure, scalable backend systems; build tools that make others’ lives easier, and; also experiment with game design in my own game projects
+- 👤 I build backend systems, tools, and games
 - 📚 Currently learning `django`, `React`, `PostgreSQL`, `Docker`, `GitHub Actions`, `Postman` and `Selenium`
 - 🕹️ Check out my games on [itch.io](https://vitorbetmann.itch.io)
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/vitorbetmann/)
