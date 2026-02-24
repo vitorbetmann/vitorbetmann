@@ -2,7 +2,7 @@
 <p align="right"><strong><em>Deckard Cain (Diablo, 1997)</em></strong></p>
 
 - 👤 Backend, Tools, and Game Programmer
-- 📚 Currently learning `django`, `React`, `PostgreSQL`, `Docker`, `GitHub Actions`, `Postman` and `Selenium`
+- 📚 Currently learning `django`, `React`, `PostgreSQL`, `Docker`, `GitHub Actions`, and `Postman`
 - 🕹️ Check out my games on [itch.io](https://vitorbetmann.itch.io)
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/vitorbetmann/)
 - 🎯 2026 Goal: Develop a mobile app in ReactNative
@@ -30,7 +30,7 @@ Arduino-based robots that won me two competitions while I was in university. It 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,sql"/>
 
 <h4>Frameworks, Tools, and Game Engines</h4>
-<img src="https://skillicons.dev/icons?i=arduino,bootstrap,cmake,django,docker,git,github,githubactions,postman,react,selenium,unity"/>
+<img src="https://skillicons.dev/icons?i=arduino,bootstrap,cmake,django,docker,git,github,githubactions,postman,react,unity"/>
 
 <h4>Databases</h4>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
