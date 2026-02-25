@@ -30,7 +30,7 @@ Arduino-based robots that won me two competitions while I was in university. It 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css,sql"/>
 
 <h4>Frameworks, Tools, and Game Engines</h4>
-<img src="https://skillicons.dev/icons?i=arduino,bootstrap,cmake,django,docker,git,github,githubactions,postman,react,unity"/>
+<img src="https://skillicons.dev/icons?i=arduino,bootstrap,django,docker,git,github,githubactions,postman,react,unity"/>
 
 <h4>Databases</h4>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
