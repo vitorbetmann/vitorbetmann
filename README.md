@@ -8,7 +8,7 @@
 - 🎯 2026 Goal: Develop a mobile app in ReactNative
 
 <br>
-<h2 align="center"><em>“It's time to code things and chew bubblegum... and I'm all out of gum.”</em></h2>
+<h2 align="center"><em>“It's time to write code and chew bubblegum... and I'm all out of gum.”</em></h2>
 <p align="right"><strong><em>Duke Nukem (Duke Nukem 3D, 1996)</em></strong></p>
 
 #### What I love the most is learning. Learning how things work, learning how to be more efficient, learning what's possible!<br>All through coding.<br>Below are the projects I’m most proud of and that best represent me as a programmer:
