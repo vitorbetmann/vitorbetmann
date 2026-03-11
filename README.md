@@ -10,7 +10,7 @@
 <h2 align="center"><em>“It's time to write code and chew bubblegum... and I'm all out of gum.”</em></h2>
 <p align="right"><strong><em>Duke Nukem (Duke Nukem 3D, 1996)</em></strong></p>
 
-#### What I love the most is learning. Learning how things work, learning how to be more efficient, learning what's possible!<br>All through coding.<br>Below are the projects I’m most proud of and that best represent me as a programmer:
+#### What I love the most is learning. Learning how things work, learning how to be more efficient, learning what's possible!<br>All through coding.<br>Below are the projects that best represent me as a programmer:
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile), an open-source, modular C library for 2D game development:
 Smile is a cross-platform (Mac and Windows) library that streamlines common game development tasks such as managing scenes, simulating particles, and saving/loading. Ideal for game jams and rapid prototyping.
