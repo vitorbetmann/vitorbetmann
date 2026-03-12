@@ -26,10 +26,10 @@ Arduino-based robots that won me two competitions while I was in university. It 
 <img src="https://skillicons.dev/icons?i=c,cs,java,js,py,sql"/>
 
 <h4>Game Engines</h4>
-<img src="https://skillicons.dev/icons?i=unity,unreal"/>
+<img src="https://skillicons.dev/icons?i=unity"/>
 
 <h4>Frameworks and Tools</h4>
-<img src="https://skillicons.dev/icons?i=arduino,docker,git,github,githubactions,postman,unity"/>
+<img src="https://skillicons.dev/icons?i=arduino,docker,git,github,githubactions,postman"/>
 
 <h4>Databases</h4>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
