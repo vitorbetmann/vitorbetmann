@@ -7,7 +7,7 @@
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/vitorbetmann/)
 
 <br>
-<h2 align="center"><em>"Git gud!”</em></h2>
+<h2 align="center"><em>“Git gud!”</em></h2>
 <p align="right"><strong><em>Hornet (Hollow Knight, 2017)</em></strong></p>
 
 #### What I love the most is learning. Learning how things work, learning how to be more efficient, learning what's possible!<br>All through coding.<br>Below are the projects that best represent me as a programmer:
