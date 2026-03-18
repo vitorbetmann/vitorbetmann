@@ -10,13 +10,19 @@
 <p align="right"><strong><em>Hornet (Hollow Knight, 2017)</em></strong></p>
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile), an open-source, modular C library for 2D game development:
-Smile is a cross-platform (Mac, Windows, and Linux) library that streamlines common game development tasks such as managing scenes, simulating particles, and saving/loading. Ideal for quick prototyping and game jams.
+Smile (Simple Modularity Is Lowkey Elegant) is an open-source, modular C library that I created to streamline common 2D game development tasks such as managing scenes, simulating particles, and saving/loading. 
+
+Built with TDD and cross-platform CI across Mac, Windows, and Linux.
 
 ### 🐮 [Joanna's Diner](https://github.com/tiffne/Joannas-Diner), a cooking game built in Unity:
 You are Joanna, a cow and a Chef, in a city overtaken by predators. Disguise yourself, cook, and earn enough money in this first-person, tension-inducing, cooking game to buy a one way ticket out of this town!
 
-### 🤖 [Sumobots](https://github.com/vitorbetmann/sumobot), i.e., Sumo-Fighting Robots:
-Arduino-based robots that won me two competitions while I was in university. My pride and joy.
+For <em>Joanna's Diner</em>, I built core gameplay systems such as food crafting, inventory, and customer behavior, but I'm most proud of creating a custom Unity editor tool that allowed non-programmers to prototype independently with a drag-and-drop workflow.
+
+### 🤖 [EspressoBot and MatchaBot](https://github.com/vitorbetmann/sumobot), Sumo-Fighting Robots:
+Two Arduino-based autonomous robots that won me 1st place at both the McMaster and York University 2024 Robot Sumo Competitions, respectively.
+
+Both bots use a sliding-window moving average algorithm implemented with a circular buffer for O(1) IR sensor smoothing and noise rejection. MatchaBot iterated on EspressoBot's foundation, reducing IR noise readings from 8% to 3% and increasing main loop speed by 178% during opponent search. There was also CappuccinoBot, but we don't talk about it...
 
 <br>
 <h2 align="center"><em>“It's dangerous to code alone! Take this.”</em></h2>
