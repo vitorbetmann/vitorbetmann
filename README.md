@@ -10,9 +10,9 @@
 <p align="right"><strong><em>Hornet (Hollow Knight, 2017)</em></strong></p>
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile), modular game development library:
-I created Smile (Simple Modularity is Lowkey Elegant) as an open-source, C library to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading.
+Smile (Simple Modularity Is Lowkey Elegant) is an open-source C library I created to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading. Built with TDD and cross-platform CI across Mac, Windows, and Linux.
 
-Built with TDD and cross-platform CI (Mac, Windows, and Linux), Smile is lightweight (no external dependencies), has consistent and well documented API's, and encapsulated memory management, making it ideal for quick prototyping and game jams.
+Lightweight, with no external dependencies, consistent and well-documented APIs, and encapsulated memory management.
 
 Art thou an unbeliever still? Check out some games [made with Smile](https://github.com/vitorbetmann/made_with_smile).
 
