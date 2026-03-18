@@ -10,9 +10,11 @@
 <p align="right"><strong><em>Hornet (Hollow Knight, 2017)</em></strong></p>
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile), modular game development library:
-Smile (Simple Modularity Is Lowkey Elegant) is an open-source, C library that I created to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading. 
+I created Smile (Simple Modularity is Lowkey Elegant) as an open-source, C library to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading.
 
-Built with TDD and cross-platform CI across Mac, Windows, and Linux.
+Built with TDD and cross-platform CI (Mac, Windows, and Linux), Smile is lightweight (no external dependencies), has consistent and well documented API's, and encapsulated memory management, making it ideal for quick prototyping and game jams.
+
+Art thou an unbeliever still? Check out some games [made with Smile](https://github.com/vitorbetmann/made_with_smile).
 
 ### 🐮 [Joanna's Diner](https://github.com/tiffne/Joannas-Diner), a cooking game built in Unity:
 You are Joanna, a cow and a Chef, in a city overtaken by predators. Disguise yourself, cook, and earn enough money in this first-person, tension-inducing, cooking game to buy a one way ticket out of this town!
