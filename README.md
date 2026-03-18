@@ -9,8 +9,6 @@
 <h2 align="center"><em>“Git gud!”</em></h2>
 <p align="right"><strong><em>Hornet (Hollow Knight, 2017)</em></strong></p>
 
-Below are the projects that best represent me:
-
 ### 😊 [Smile](https://github.com/vitorbetmann/smile), modular game development library:
 Smile is an open-source C library I created to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading, making it ideal for quick prototyping and game jams (check out games [made with Smile](https://github.com/vitorbetmann/made_with_smile)).
 
