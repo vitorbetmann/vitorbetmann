@@ -14,7 +14,7 @@ Smile is an open-source C library I created to streamline common 2D game dev tas
 
 Built with TDD and cross-platform CI (Mac, Windows, and Linux), Smile is lightweight, with consistent and well-documented APIs, and encapsulated memory management.
 
-### 🐮 [Joanna's Diner](https://github.com/tiffne/Joannas-Diner), a cooking game built in Unity:
+### 🐮 [Joanna's Diner](https://github.com/tiffne/Joannas-Diner), cooking game made in Unity:
 You are Joanna, a cow and a Chef, in a city overtaken by predators. Disguise yourself, cook, and earn enough money in this first-person, tension-inducing, cooking game to buy a one way ticket out of this town!
 
 For <em>Joanna's Diner</em>, I built core gameplay systems such as food crafting, inventory, and customer behavior, but I'm most proud of creating a custom Unity editor tool that allowed non-programmers to prototype independently with a drag-and-drop workflow.
