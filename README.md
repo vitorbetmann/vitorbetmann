@@ -7,8 +7,8 @@
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/vitorbetmann/)
 
 <br>
-<h2 align="center"><em>“It's time to write code and chew bubblegum... and I'm all out of gum.”</em></h2>
-<p align="right"><strong><em>Duke Nukem (Duke Nukem 3D, 1996)</em></strong></p>
+<h2 align="center"><em>"Git gud!”</em></h2>
+<p align="right"><strong><em>Hornet (Hollow Knight, 2017)</em></strong></p>
 
 #### What I love the most is learning. Learning how things work, learning how to be more efficient, learning what's possible!<br>All through coding.<br>Below are the projects that best represent me as a programmer:
 
@@ -19,8 +19,8 @@ Smile is a cross-platform (Mac and Windows) library that streamlines common game
 Arduino-based robots that won me two competitions while I was in university. It was funny seeing people wonder how a Cinema student was able to win 2 competitions in a row. They didn't know about my Engineering background...
 
 <br>
-<h2 align="center"><em>“All your codebase are belong to us.”</em></h2>
-<p align="right"><strong><em>CATS (Zero Wing, 1991)</em></strong></p>
+<h2 align="center"><em>“It's dangerous to code alone! Take this.”</em></h2>
+<p align="right"><strong><em>Old Man (The Legend of Zelda, 1986)</em></strong></p>
 
 <h4>Programming Languages</h4>
 <img src="https://skillicons.dev/icons?i=c,cs,java,js,py,sql"/>
