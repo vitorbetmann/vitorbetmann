@@ -1,22 +1,22 @@
 <h2 align="center"><em>“Stay awhile and readme.”</em></h2>
 <p align="right"><strong><em>Deckard Cain (Diablo, 1997)</em></strong></p>
 
-- 👤 Backend, Tools, and Game Programmer
-- 📚 Currently learning `Docker`, and `Postman`
-- 🕹️ Check out my games on [itch.io](https://vitorbetmann.itch.io)
-- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/vitorbetmann/)
+- 👨‍💻 Systems and Tools Programmer
+- 🎮 Expanding into Online Game Development
+- 📚 Pursuing a Post-Graduate Diploma in Software Architecture at FIAP
 
 <br>
 <h2 align="center"><em>“Git gud!”</em></h2>
 <p align="right"><strong><em>Hornet (Hollow Knight, 2017)</em></strong></p>
 
-#### What I love the most is learning. Learning how things work, learning how to be more efficient, learning what's possible!<br>All through coding.<br>Below are the projects that best represent me as a programmer:
-
 ### 😊 [Smile](https://github.com/vitorbetmann/smile), an open-source, modular C library for 2D game development:
-Smile is a cross-platform (Mac and Windows) library that streamlines common game development tasks such as managing scenes, simulating particles, and saving/loading. Ideal for game jams and rapid prototyping.
+Smile is a cross-platform (Mac, Windows, and Linux) library that streamlines common game development tasks such as managing scenes, simulating particles, and saving/loading. Ideal for quick prototyping and game jams.
+
+### 🐮 [Joanna's Diner](https://github.com/tiffne/Joannas-Diner), a cooking game built in Unity:
+You are Joanna, a cow and a Chef, in a city overtaken by predators. Disguise yourself, cook, and earn enough money in this first-person, tension-inducing, cooking game to buy a one way ticket out of this town!
 
 ### 🤖 [Sumobots](https://github.com/vitorbetmann/sumobot), i.e., Sumo-Fighting Robots:
-Arduino-based robots that won me two competitions while I was in university. It was funny seeing people wonder how a Cinema student was able to win 2 competitions in a row. They didn't know about my Engineering background...
+Arduino-based robots that won me two competitions while I was in university. My pride and joy.
 
 <br>
 <h2 align="center"><em>“It's dangerous to code alone! Take this.”</em></h2>
