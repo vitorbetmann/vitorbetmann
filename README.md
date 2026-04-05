@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/projects.png" alt="personal projects header">
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile) — 2D Game Dev Library:
-An open-source, modular C library to streamline common 2D game development tasks such as managing scenes, simulating particles, and saving/loading, making it ideal for quick prototyping and game jams. Build with TDD and cross-platform CI (macOS, Windows, Linux).
+An open-source, modular C library to streamline common 2D game development tasks such as managing scenes, simulating particles, and saving/loading, making it ideal for quick prototyping (see games [made with Smile](https://github.com/vitorbetmann/made-with-smile)). Build with TDD and cross-platform CI (macOS, Windows, Linux).
 
 ### 🐮 [Joanna's Diner](https://github.com/vitorbetmann/joannas_diner) — Cooking Game:
 Built core gameplay systems such as food crafting, inventory, and customer behavior, but I'm most proud of creating a custom Unity editor tool that allowed non-programmers to prototype independently with a drag-and-drop workflow.
