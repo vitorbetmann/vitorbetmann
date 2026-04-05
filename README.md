@@ -1,4 +1,4 @@
-<img src="" alt="about me header">
+![About me header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/about.png)
 
 
 ### 👨‍💻 Systems and Tools Programmer
@@ -7,10 +7,10 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/projects.png" alt="personal projects header">
+![Personal projects header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/projects.png)
 
-### 😊 [Smile](https://github.com/vitorbetmann/smile) — 2D Game Dev Library:
-An open-source, modular C library to streamline common 2D game development tasks such as managing scenes, simulating particles, and saving/loading, making it ideal for quick prototyping (see games [made with Smile](https://github.com/vitorbetmann/made-with-smile)). Build with TDD and cross-platform CI (macOS, Windows, Linux).
+### 😊 [Smile](https://github.com/vitorbetmann/smile) — 2D Game Development Library:
+An open-source, modular C library to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading, making it ideal for quick prototyping (see games [made with Smile](https://github.com/vitorbetmann/made-with-smile)). Supported on macOS, Windows, and Linux.
 
 ### 🐮 [Joanna's Diner](https://github.com/vitorbetmann/joannas_diner) — Cooking Game:
 Built core gameplay systems such as food crafting, inventory, and customer behavior, but I'm most proud of creating a custom Unity editor tool that allowed non-programmers to prototype independently with a drag-and-drop workflow.
@@ -20,21 +20,20 @@ Two Arduino-based autonomous robots that won me 1st place at both the McMaster a
 
 ---
 
-<img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/skills.png" alt="skills header">
+![Skills header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/skills.png)
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cs,java,js,py,sql"/>
+![Programming languages image](https://skillicons.dev/icons?i=c,cs,java,js,py,sql)
 
 ### Game Engines
-<img src="https://skillicons.dev/icons?i=unity"/>
+![Game engines image](https://skillicons.dev/icons?i=unity)
 
 ### Frameworks and Tools
-<img src="https://skillicons.dev/icons?i=arduino,docker,git,github,githubactions,postman,spring"/>
+![Frameworks and tools image](https://skillicons.dev/icons?i=arduino,docker,git,github,githubactions,postman,spring)
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+![Databases image](https://skillicons.dev/icons?i=mysql,sqlite)
 
 ---
 
-<img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/bye.png" alt="goodbye header">
-
+![Thanks for reading header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/bye.png)
