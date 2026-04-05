@@ -5,7 +5,7 @@
 - 🎮 Expanding into Online Game Development
 - 📚 Pursuing a Post-Graduate Diploma in Software Architecture at FIAP
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/EzgHFF5" data-context="false" ><a href="//imgur.com/a/EzgHFF5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Projects header](https://imgur.com/EzgHFF5)
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile), modular game development library:
 Smile is an open-source C library I created to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading, making it ideal for quick prototyping and game jams (check out games [made with Smile](https://github.com/vitorbetmann/made-with-smile)).
