@@ -1,5 +1,5 @@
-<h2 align="center"><em>“Stay awhile and readme.”</em></h2>
-<p align="right"><strong><em>Deckard Cain (Diablo, 1997)</em></strong></p>
+<img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/about.png" alt="about me header">
+
 
 - 👨‍💻 Systems and Tools Programmer
 - 🎮 Expanding into Online Game Development
@@ -7,7 +7,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/projects.png" alt="projects header">
+<img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/projects.png" alt="personal projects header">
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile), modular game development library:
 Smile is an open-source C library I created to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading, making it ideal for quick prototyping and game jams (check out games [made with Smile](https://github.com/vitorbetmann/made-with-smile)).
