@@ -5,9 +5,7 @@
 - 🎮 Expanding into Online Game Development
 - 📚 Pursuing a Post-Graduate Diploma in Software Architecture at FIAP
 
-<br>
-<h2 align="center"><em>“Git gud!”</em></h2>
-<p align="right"><strong><em>Hornet (Hollow Knight, 2017)</em></strong></p>
+![My projects header](https://imgur.com/EzgHFF5)
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile), modular game development library:
 Smile is an open-source C library I created to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading, making it ideal for quick prototyping and game jams (check out games [made with Smile](https://github.com/vitorbetmann/made-with-smile)).
