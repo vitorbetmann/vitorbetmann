@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/about.png" alt="about me header">
+<img src="" alt="about me header">
 
 
 ### 👨‍💻 Systems and Tools Programmer
