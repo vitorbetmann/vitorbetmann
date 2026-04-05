@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/about.png" alt="about me header">
 
 
-- 👨‍💻 Systems and Tools Programmer
-- 🎮 Expanding into Online Game Development
-- 📚 Pursuing a Post-Graduate Diploma in Software Architecture at FIAP
+### 👨‍💻 Systems and Tools Programmer
+### 🎮 Expanding into Online Game Development
+### 📚 Pursuing a Post-Graduate Diploma in Software Architecture at FIAP
 
 ---
 
