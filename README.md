@@ -28,16 +28,16 @@ Both bots use a sliding-window moving average algorithm implemented with a circu
 
 <img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/skills.png" alt="skills header">
 
-<h4>Programming Languages</h4>
+### Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cs,java,js,py,sql"/>
 
-<h4>Game Engines</h4>
+### Game Engines
 <img src="https://skillicons.dev/icons?i=unity"/>
 
-<h4>Frameworks and Tools</h4>
-<img src="https://skillicons.dev/icons?i=arduino,docker,git,github,githubactions,postman"/>
+### Frameworks and Tools
+<img src="https://skillicons.dev/icons?i=arduino,docker,git,github,githubactions,postman,spring"/>
 
-<h4>Databases</h4>
+### Databases
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 
 ---
