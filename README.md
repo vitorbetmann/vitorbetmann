@@ -38,7 +38,7 @@ Two autonomous robots that won me 1st place at both the McMaster and York Univer
 <h3 align="center">a.k.a. thanks for reading this far</h3>
 
 - ⭐️ Like one of my projects? Would you kindly star the repo?
-- 🤝 Let's connect on [LinkedIn](https://linkedin.com/in/vitorbetmann)
+- 👥 Let's connect on [LinkedIn](https://linkedin.com/in/vitorbetmann)
 - 🕹️ Check out my games on [itch.io](https://vitorbetmann.itch.io/)
 
 Have a good one and see you around! 👋
