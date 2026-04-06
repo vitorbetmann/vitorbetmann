@@ -1,4 +1,4 @@
-![About me header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/about-me.png)
+![About me header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/about.png)
 
 - #### 👨‍💻 Gameplay, systems, and tools programmer
 - #### 🎮 Expanding into Online Game Development
@@ -19,7 +19,7 @@ Two autonomous robots that won me 1st place at both the McMaster and York Univer
 
 ---
 
-![Skills header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/tech-skills.png)
+![Skills header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/skills.png)
 
 ### Programming Languages
 ![Programming languages image](https://skillicons.dev/icons?i=c,cs,java,js,py,sql)
