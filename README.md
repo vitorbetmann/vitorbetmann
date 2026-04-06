@@ -1,8 +1,8 @@
-![About me header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/about.png)
+![About me header]()
 
-### 👨‍💻 Gameplay, systems, and tools programmer
-### 🎮 Expanding into Online Game Development
-### 📚 Pursuing a Post-Graduate Diploma in Software Architecture at FIAP
+- ### 👨‍💻 Gameplay, systems, and tools programmer
+- ### 🎮 Expanding into Online Game Development
+- ### 📚 Pursuing a Post-Graduate Diploma in Software Architecture at FIAP
 
 ---
 
@@ -19,7 +19,7 @@ Two Arduino-based autonomous robots that won me 1st place at both the McMaster a
 
 ---
 
-![Skills header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/skills.png)
+![Skills header]()
 
 ### Programming Languages
 ![Programming languages image](https://skillicons.dev/icons?i=c,cs,java,js,py,sql)
