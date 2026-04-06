@@ -22,8 +22,8 @@ Two autonomous robots that won me 1st place at both the McMaster and York Univer
 <h1 align="center"><em>"It's dangerous to code alone! Take these."</em></h1>
 <h3 align="center">a.k.a. my skills</h3>
 
-### Programming Languages
-![Programming languages image](https://skillicons.dev/icons?i=c,cs,java,js,py,sql)
+### Languages
+![Programming languages image](https://skillicons.dev/icons?i=c,cs,java,js,py,html,css)
 
 ### Game Engines
 ![Game engines image](https://skillicons.dev/icons?i=unity)
