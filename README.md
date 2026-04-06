@@ -1,4 +1,4 @@
-<h2 align="center"><em>"Stay awhile and readme!"</em></h2> 
+<h1 align="center"><em>"Stay awhile and readme!"</em></h1> 
 <h3 align="center">a.k.a. about me</h3>
 
 
@@ -6,7 +6,7 @@
 - 🎮 Expanding into Online Game Development
 - 📚 Pursuing a Post-Graduate Diploma in Software Architecture at FIAP
 
-<h2 align="center"><em>"Git gud!"</em></h2>
+<h1 align="center"><em>"Git gud!"</em></h1>
 <h3 align="center">a.k.a. my projects</h3>
 
 
@@ -19,7 +19,7 @@ Built core gameplay systems such as food crafting, inventory, and customer behav
 ### 🤖 [EspressoBot and MatchaBot](https://github.com/vitorbetmann/sumobot) — Arduino-based Sumobots:
 Two autonomous robots that won me 1st place at both the McMaster and York University 2024 Robot Sumo Competitions, respectively. There was also CappuccinoBot, but we don't talk about it...
 
-<h2 align="center"><em>"It's dangerous to code alone! Take these."</em></h2>
+<h1 align="center"><em>"It's dangerous to code alone! Take these."</em></h1>
 <h3 align="center">a.k.a. my skills</h3>
 
 ### Programming Languages
@@ -34,5 +34,5 @@ Two autonomous robots that won me 1st place at both the McMaster and York Univer
 ### Databases
 ![Databases image](https://skillicons.dev/icons?i=mysql,sqlite)
 
-<h2 align="center"><em>"Where's everyone going? Repos?"</em></h2>
+<h1 align="center"><em>"Where's everyone going? Repos?"</em></h1>
 <h3 align="center">a.k.a. thanks for reading this far</h3>
