@@ -1,7 +1,5 @@
 ![About me header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/about.png)
 
-## a.k.a About Me
-
 ### 👨‍💻 Gameplay, systems, and tools programmer
 ### 🎮 Expanding into Online Game Development
 ### 📚 Pursuing a Post-Graduate Diploma in Software Architecture at FIAP
