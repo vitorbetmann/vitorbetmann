@@ -1,26 +1,14 @@
-<table border="0" align="center">
-  <tr>
-    <td style="border:none">
-      <img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/cain.png" alt="Deckard Cain"
-        width="120px">
-    </td>
-    <td style="border:none">
-      <h1><em>"Stay awhile and readme!"</em></h1>
-      <p align="right"><small>Deckard Cain (Diablo, 1996)</small></p>
-    </td>
-  </tr>
-</table>
+<h2 align="center"><em>"Stay awhile and readme!"</em><sub> — Deckard Cain, Diablo (1996)</sub></h2> 
+<h3 align="center">a.k.a. about me</h3>
 
-- #### 👨‍💻 Gameplay, systems, and tools programmer
-- #### 🎮 Expanding into Online Game Development
-- #### 📚 Pursuing a Post-Graduate Diploma in Software Architecture at FIAP
 
----
+- 👨‍💻 Gameplay, systems, and tools programmer
+- 🎮 Expanding into Online Game Development
+- 📚 Pursuing a Post-Graduate Diploma in Software Architecture at FIAP
 
-![Personal projects header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/projs.png)
-<h1>"Git gud!"
-<p align-left=true>Hornet (Hollow Knigh, 2017)</p>
-## (a.k.a. about me)
+<h2 align="center"><em>"Git gud!"</em><sub> — Hornet, Hollow Knight (2017)</sub></h2>
+<h3 align="center">a.k.a. my projects</h3>
+
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile) — Game Dev Library in C:
 An open-source library with modules and tools to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading. Ideal for quick prototyping (see games [made with Smile](https://github.com/vitorbetmann/made-with-smile)) and supported on macOS, Windows, and Linux.
@@ -33,7 +21,8 @@ Two autonomous robots that won me 1st place at both the McMaster and York Univer
 
 ---
 
-![Skills header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/skills.png)
+<h2 align="center"><em>"It's dangerous to code alone! Take these."</em><sub> — Old Man (The Legend of Zelda, 1986)</sub></h2>
+<h3 align="center">a.k.a. my skills</h3>
 
 ### Programming Languages
 ![Programming languages image](https://skillicons.dev/icons?i=c,cs,java,js,py,sql)
@@ -49,4 +38,5 @@ Two autonomous robots that won me 1st place at both the McMaster and York Univer
 
 ---
 
-![Thanks for reading header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/bye.png)
+<h2 align="center"><em>"Where's everyone going? Repos?"</em><sub> — Leon S. Kennedy (Resident Evil 4, 2005)</sub></h2>
+<h3 align="center">a.k.a. thanks for reading this far</h3>
