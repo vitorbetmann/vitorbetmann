@@ -1,9 +1,10 @@
 <table border="0" align="center">
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/cain.png" alt="Deckard Cain">
+    <td style="border:none">
+      <img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/cain.png" alt="Deckard Cain"
+        width="120px">
     </td>
-    <td>
+    <td style="border:none">
       <h1><em>"Stay awhile and readme!"</em></h1>
       <p align="right"><small>Deckard Cain (Diablo, 1996)</small></p>
     </td>
