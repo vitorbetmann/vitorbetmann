@@ -1,4 +1,4 @@
-![About me header]()
+![About me header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/about.png)
 
 ### 👨‍💻 Gameplay, systems, and tools programmer
 ### 🎮 Expanding into Online Game Development
@@ -6,7 +6,7 @@
 
 ---
 
-![Personal projects header]()
+![Personal projects header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/projs.png)
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile) — 2D Game Development Library:
 An open-source, modular C library to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading. Ideal for quick prototyping (see games [made with Smile](https://github.com/vitorbetmann/made-with-smile)) and supported on macOS, Windows, and Linux.
@@ -19,7 +19,7 @@ Two Arduino-based autonomous robots that won me 1st place at both the McMaster a
 
 ---
 
-![Skills header]()
+![Skills header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/skills.png)
 
 ### Programming Languages
 ![Programming languages image](https://skillicons.dev/icons?i=c,cs,java,js,py,sql)
@@ -35,4 +35,4 @@ Two Arduino-based autonomous robots that won me 1st place at both the McMaster a
 
 ---
 
-![Thanks for reading header]()
+![Thanks for reading header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/bye.png)
