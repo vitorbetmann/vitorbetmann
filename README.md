@@ -1,4 +1,14 @@
-![About me header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/about.png)
+<table border="0" align="center">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/cain.png" alt="Deckard Cain">
+    </td>
+    <td>
+      <h1><em>"Stay awhile and readme!"</em></h1>
+      <p align="right"><small>Deckard Cain (Diablo, 1996)</small></p>
+    </td>
+  </tr>
+</table>
 
 - #### 👨‍💻 Gameplay, systems, and tools programmer
 - #### 🎮 Expanding into Online Game Development
@@ -7,6 +17,9 @@
 ---
 
 ![Personal projects header](https://raw.githubusercontent.com/vitorbetmann/vitorbetmann/refs/heads/main/headers/projs.png)
+<h1>"Git gud!"
+<p align-left=true>Hornet (Hollow Knigh, 2017)</p>
+## (a.k.a. about me)
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile) — Game Dev Library in C:
 An open-source library with modules and tools to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading. Ideal for quick prototyping (see games [made with Smile](https://github.com/vitorbetmann/made-with-smile)) and supported on macOS, Windows, and Linux.
