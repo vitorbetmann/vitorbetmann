@@ -6,8 +6,8 @@
 - 🎮 Expanding into Online Game Development
 - 📚 Pursuing a Post-Graduate Diploma in Software Architecture at FIAP
 
-<h1 align="center"><em>"Would you kindly star a repo?"</em></h1>
-<h3 align="center">(a.k.a. my projects)</h3>
+<h1 align="center"><em>"Would you kindly star my repos?"</em></h1>
+<h3 align="center">(a.k.a. projects)</h3>
 
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile) — Game Dev Library in C:
