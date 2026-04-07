@@ -20,7 +20,7 @@ Built core gameplay systems such as food crafting, inventory, and customer behav
 Two autonomous robots that won me 1st place at both the McMaster and York University 2024 Robot Sumo Competitions, respectively. There was also CappuccinoBot, but we don't talk about it...
 
 <h1 align="center"><em>"It's dangerous to code alone! Take these."</em></h1>
-<h3 align="center">(a.k.a. my skills)</h3>
+<h3 align="center">(a.k.a. skills)</h3>
 
 ### Languages
 ![Programming languages image](https://skillicons.dev/icons?i=c,cs,java,js,py,html,css)
