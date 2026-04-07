@@ -14,6 +14,7 @@
 An open-source library with modules and tools to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading. Ideal for quick prototyping (see games [made with Smile](https://github.com/vitorbetmann/made-with-smile)) and supported on macOS, Windows, and Linux.
 
 ### 🐮 [Joanna's Diner](https://github.com/vitorbetmann/joannas_diner) — Cooking Game in Unity:
+- #### Download it on [itch.io](https://theojammm.itch.io/joannas-diner)
 Built core gameplay systems such as food crafting, inventory, and customer behavior, but I'm most proud of creating a custom Unity editor tool that allowed non-programmers to prototype independently with a drag-and-drop workflow.
 
 ### 🤖 [EspressoBot and MatchaBot](https://github.com/vitorbetmann/sumobot) — Arduino-based Sumobots:
