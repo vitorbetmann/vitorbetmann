@@ -14,7 +14,7 @@ An open-source library with modules and tools to streamline common 2D game dev t
 ### 🐮 [Joanna's Diner](https://github.com/vitorbetmann/joannas_diner) — Cooking Game in Unity:
 Built core gameplay systems such as food crafting, inventory, and customer behavior, but I'm most proud of creating a custom Unity editor tool that allowed non-programmers to prototype independently with a drag-and-drop workflow.
 
-### 🤖 [EspressoBot and MatchaBot](https://github.com/vitorbetmann/sumobot) — Arduino-based Sumobots:
+### 🤖 [EspressoBot](https://github.com/vitorbetmann/sumobot) and [MatchaBot](https://github.com/vitorbetmann/sumobot) — Arduino-based Sumobots:
 Two autonomous robots that won me 1st place at both the McMaster and York University 2024 Robot Sumo Competitions, respectively. There was also CappuccinoBot, but we don't talk about it...
 
 <h1 align="center"><em>"It's dangerous to code alone! Take these."</em></h1>
