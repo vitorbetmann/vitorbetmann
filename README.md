@@ -1,5 +1,5 @@
 <h1 align="center"><em>"Stay awhile and readme!"</em></h1> 
-<h3 align="center">a.k.a. about me</h3>
+<h3 align="center">(a.k.a. about me)</h3>
 
 
 - 👨‍💻 Gameplay, systems, and tools programmer
