@@ -1,5 +1,5 @@
 <h1 align="center"><em>"Stay awhile and readme!"</em></h1> 
-<h3 align="center">a.k.a. about me</h3>
+<h3 align="center">(a.k.a. about me)</h3>
 
 
 - 👨‍💻 Gameplay, systems, and tools programmer
@@ -7,7 +7,7 @@
 - 📚 Pursuing a Post-Graduate Diploma in Software Architecture at FIAP
 
 <h1 align="center"><em>"Git gud!"</em></h1>
-<h3 align="center">a.k.a. my projects</h3>
+<h3 align="center">(a.k.a. my projects)</h3>
 
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile) — Game Dev Library in C:
@@ -20,7 +20,7 @@ Built core gameplay systems such as food crafting, inventory, and customer behav
 Two autonomous robots that won me 1st place at both the McMaster and York University 2024 Robot Sumo Competitions, respectively. There was also CappuccinoBot, but we don't talk about it...
 
 <h1 align="center"><em>"It's dangerous to code alone! Take these."</em></h1>
-<h3 align="center">a.k.a. my skills</h3>
+<h3 align="center">(a.k.a. my skills)</h3>
 
 ### Languages
 ![Programming languages image](https://skillicons.dev/icons?i=c,cs,java,js,py,html,css)
@@ -35,7 +35,7 @@ Two autonomous robots that won me 1st place at both the McMaster and York Univer
 ![Databases image](https://skillicons.dev/icons?i=mysql,sqlite)
 
 <h1 align="center"><em>"Where's everyone going? Repos?"</em></h1>
-<h3 align="center">a.k.a. thanks for reading this far</h3>
+<h3 align="center">(a.k.a. thanks for reading this far)</h3>
 
 - ⭐️ Like one of my projects? Would you kindly star the repo?
 - 👥 Let's connect on [LinkedIn](https://linkedin.com/in/vitorbetmann)
