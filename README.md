@@ -37,6 +37,7 @@ Two autonomous robots that won me 1st place at both the McMaster and York Univer
 <h1 align="center"><em>"Where's everyone going? Repos?"</em></h1>
 <h3 align="center">(a.k.a. Miscellaneous)</h3>
 
+Thanks for reading this far! If you wanna learn more about me:
 - 👥 Let's connect on [LinkedIn](https://linkedin.com/in/vitorbetmann)
 - 🕹️ Check out my games on [itch.io](https://vitorbetmann.itch.io/)
 
