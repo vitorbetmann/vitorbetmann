@@ -1,9 +1,9 @@
 <h1 align="center"><em>"Stay awhile and readme!"</em></h1> 
 <h3 align="center">(a.k.a. About Me)</h3>
 
-- 👨‍💻 I'm a gameplay, systems, and tools programmer
+- 👨‍💻 Gameplay, systems, and tools programmer
 - 📚 Pursuing a postgrad diploma in software architecture at FIAP
-- 🕹️ My games are on [itch.io](https://vitorbetmann.itch.io/)
+- 🕹️ You can play my games on [itch.io](https://vitorbetmann.itch.io/)
 
 <h1 align="center"><em>"Would you kindly star my repos?"</em></h1>
 <h3 align="center">(a.k.a. Featured Projects)</h3>
