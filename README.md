@@ -4,7 +4,7 @@
 - 👨‍💻 ***Gameplay***, ***systems***, and ***tools*** programmer
 - 📚 Pursuing a Postgrad Diploma in ***Software Architecture***
 - 🛠️ Working on [***Smile***](https://github.com/vitorbetmann/smile) (see below) and a ***Secret Unity Proj***
-- 📖 Reading [***Chainsaw Man***](https://share.google/T8rIXyRSII2kQPTI7) and [***Code***](https://share.google/mYvJ4ULEFSufRW1JY)
+- 📖 Reading [***Chainsaw Man***](https://share.google/T8rIXyRSII2kQPTI7) and [***Code***](https://share.google/mYvJ4ULEFSufRW1JY) (it's a book, although I'm always reading code too)
 - 🕹️ Playing [***Lies of P***](https://share.google/R0YO0o8LFfhSdlFNM) (again)
 
 <h1 align="center"><em>"Would you kindly star my repos?"</em></h1>
