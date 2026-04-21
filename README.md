@@ -3,12 +3,15 @@
  
 - 👨‍💻 ***Gameplay***, ***systems***, and ***tools*** programmer
 - 📚 Pursuing a Postgrad Diploma in ***Software Architecture***
-- 🛠️ Working on [***Smile***](https://github.com/vitorbetmann/smile) (see below) and a ***Secret Unity Proj***
+- 🛠️ Working on [***Smile***](https://github.com/vitorbetmann/smile) and a [Restaurant Management API](https://github.com/vitorbetmann/restaurant-management-api)
 - 📖 Reading [***Chainsaw Man***](https://share.google/T8rIXyRSII2kQPTI7) and [***Code***](https://share.google/mYvJ4ULEFSufRW1JY) (it's a book, although I'm always reading actual code too)
 - 🕹️ Playing [***Lies of P***](https://share.google/R0YO0o8LFfhSdlFNM) (again)
 
 <h1 align="center"><em>"Would you kindly star my repos?"</em></h1>
 <h3 align="center">(a.k.a. Featured Projects)</h3>
+
+### 🍽️ [Restaurant Management API](https://github.com/vitorbetmann/restaurant-management-api):
+REST API backend for a shared restaurant management platform, built with Spring Boot and PostgreSQL. Supports user registration, authentication, and role-based profiles (restaurant owner and customer). Containerized with Docker Compose. Developed as part of the FIAP PosTech Java Architecture & Development postgrad program.
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile) — Game Dev Library in C:
 An open-source library with modules and tools to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading. Ideal for quick prototyping (see games [made with Smile](https://github.com/vitorbetmann/made-with-smile)) and supported on macOS, Windows, and Linux.
