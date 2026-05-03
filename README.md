@@ -10,7 +10,7 @@
 <h1 align="center"><em>"Would you kindly star my repos?"</em></h1>
 <h3 align="center">(a.k.a. Featured Projects)</h3>
 
-### 🍽️ [Restaurant Management API](https://github.com/vitorbetmann/restaurant-management-api):
+### 🍽️ [Resmapi](https://github.com/vitorbetmann/restaurant-management-api) — Restaurant Management API in Java Spring:
 REST API backend for a shared restaurant management platform, built with Spring Boot and PostgreSQL. Supports user registration, authentication, and role-based profiles (restaurant owner and customer). Containerized with Docker Compose. Developed as part of the FIAP PosTech Java Architecture & Development postgrad program.
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile) — Game Dev Library in C:
