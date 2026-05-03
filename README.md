@@ -3,7 +3,7 @@
  
 - 👨‍💻 ***Gameplay***, ***systems***, and ***tools*** programmer
 - 📚 Pursuing a Postgrad Diploma in ***Software Architecture***
-- 🛠️ Working on [***Smile***](https://github.com/vitorbetmann/smile) and a [Restaurant Management API](https://github.com/vitorbetmann/restaurant-management-api)
+- 🛠️ Working on [***Smile***](https://github.com/vitorbetmann/smile) and [Resmapi](https://github.com/vitorbetmann/resmapi)
 - 📖 Reading [***Chainsaw Man***](https://share.google/T8rIXyRSII2kQPTI7) and [***Code***](https://share.google/mYvJ4ULEFSufRW1JY) (it's a book, although I'm always reading actual code too)
 - 🕹️ Playing [***Lies of P***](https://share.google/R0YO0o8LFfhSdlFNM) (again)
 
