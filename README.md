@@ -3,9 +3,9 @@
  
 - 👨‍💻 ***Gameplay***, ***systems***, and ***tools*** programmer
 - 📚 Pursuing a Postgrad Diploma in ***Software Architecture***
-- 🛠️ Working on [***Smile***](https://github.com/vitorbetmann/smile) and [Resmapi: Phase 2](https://github.com/vitorbetmann/resmapi)
+- 🛠️ Working on [***Smile***](https://github.com/vitorbetmann/smile) and [***Resmapi: Phase 2***](https://github.com/vitorbetmann/resmapi)
 - 📖 Reading [***Chainsaw Man***](https://share.google/T8rIXyRSII2kQPTI7) and [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
-- 🕹️ Playing [***Lies of P***](https://www.liesofp.com/en-us) (again) and [Dredge](https://www.dredge.game)
+- 🕹️ Playing [***Lies of P***](https://www.liesofp.com/en-us) (again) and [***Dredge***](https://www.dredge.game)
 
 <h1 align="center"><em>"Would you kindly star my repos?"</em></h1>
 <h3 align="center">(a.k.a. Featured Projects)</h3>
