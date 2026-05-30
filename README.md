@@ -5,7 +5,7 @@
 - 📚 Pursuing a Postgrad Diploma in ***Software Architecture***
 - 🛠️ Working on [***Smile***](https://github.com/vitorbetmann/smile) and [***Resmapi: Phase 2***](https://github.com/vitorbetmann/resmapi)
 - 📖 Reading [***Chainsaw Man***](https://share.google/T8rIXyRSII2kQPTI7) and [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
-- 🕹️ Playing [***Lies of P***](https://www.liesofp.com/en-us) (again) and [***Dredge***](https://www.dredge.game)
+- 🕹️ Playing [***Neverness to Everness***](https://nte.perfectworld.com/hot/260514hot/en/index.html?bg=1&media_source=googleadwords_int&campaign_id=23802165839&ad_name=195770766719&click_id=CjwKCAjw8uTQBhAdEiwAVvtJyoXfSsFy6iFCTDgzI0ytCVv1cMGcVgYP8lXz8dXEJVX5-To5z7JychoClo0QAvD_BwE&source_id=g_&gad_source=1&gad_campaignid=23802165839&gbraid=0AAAAAosxxHgjlg8kNcy3_mkXPug49KAp6&gclid=CjwKCAjw8uTQBhAdEiwAVvtJyoXfSsFy6iFCTDgzI0ytCVv1cMGcVgYP8lXz8dXEJVX5-To5z7JychoClo0QAvD_BwE) and [***Dredge***](https://www.dredge.game)
 
 <h1 align="center"><em>"Would you kindly star my repos?"</em></h1>
 <h3 align="center">(a.k.a. Featured Projects)</h3>
