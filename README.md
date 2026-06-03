@@ -27,10 +27,10 @@ Two autonomous robots that won me 1st place at both the McMaster and York Univer
 <h3 align="center">(a.k.a. Technical Skills)</h3>
 
 ### Languages
-![Programming languages image](https://skillicons.dev/icons?i=c,cs,java,js,py,html,css)
+![Programming languages image](https://skillicons.dev/icons?i=c,cs,lua,java,js,py,html,css)
 
 ### Game Engines
-![Game engines image](https://skillicons.dev/icons?i=unity)
+![Game engines image](https://skillicons.dev/icons?i=unity,unreal)
 
 ### Frameworks and Tools
 ![Frameworks and tools image](https://skillicons.dev/icons?i=arduino,docker,git,github,githubactions,postman,spring)
