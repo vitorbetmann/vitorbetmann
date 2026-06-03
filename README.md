@@ -39,4 +39,4 @@ Two autonomous robots that won me 1st place at both the McMaster and York Univer
 ![Frameworks and tools image](https://skillicons.dev/icons?i=arduino,docker,git,github,githubactions,postman)
 
 ### Databases
-![Databases image](https://skillicons.dev/icons?i=mysql,sqlite)
+![Databases image](https://skillicons.dev/icons?i=postgres,sqlite)
