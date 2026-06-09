@@ -5,7 +5,7 @@
 - 📚 Pursuing a Postgrad Diploma in ***Software Architecture***
 - 🛠️ Working on [***Resmapi: Phase 2***](https://github.com/vitorbetmann/resmapi)
 - 📖 Reading [***Chainsaw Man***](https://share.google/T8rIXyRSII2kQPTI7) and [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
-- 🕹️ Playing [Ball X Pit](https://www.ballxpit.com/) and [***Dredge***](https://www.dredge.game)
+- 🕹️ Playing [BALL x PIT](https://www.ballxpit.com/) and [***Dredge***](https://www.dredge.game)
 
 <h1 align="center"><em>"Would you kindly star my repos?"</em></h1>
 <h3 align="center">(a.k.a. Featured Projects)</h3>
