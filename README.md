@@ -3,7 +3,7 @@
  
 - 👨‍💻 ***Gameplay***, ***systems***, and ***tools*** programmer
 - 📚 Pursuing a Postgrad Diploma in ***Software Architecture***
-- 🛠️ Working on [***Clean Resmapi](https://github.com/vitorbetmann/clean-resmapi)
+- 🛠️ Working on [***Clean Resmapi***](https://github.com/vitorbetmann/clean-resmapi)
 - 📖 Reading [***Chainsaw Man***](https://share.google/T8rIXyRSII2kQPTI7) and [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
 - 🕹️ Playing [Robocop: Rogue City](https://teyon.com/games/robocop-rogue-city/) and [***Dredge***](https://www.dredge.game)
 
