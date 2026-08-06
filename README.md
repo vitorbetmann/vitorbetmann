@@ -3,15 +3,15 @@
  
 - 👨‍💻 ***Gameplay***, ***systems***, and ***tools*** programmer
 - 📚 Pursuing a Postgrad Diploma in ***Software Architecture***
-- 🛠️ Working on [***Clean Resmapi***](https://github.com/vitorbetmann/clean-resmapi)
+- 🛠️ Working on a [***Final Project***](https://github.com/vitorbetmann/404) for CS50's Introduction to Web Development with Python and Javascript
 - 📖 Reading [***Chainsaw Man***](https://share.google/T8rIXyRSII2kQPTI7) and [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
 - 🕹️ Playing [***Robocop: Rogue City***](https://teyon.com/games/robocop-rogue-city/) and [***Dredge***](https://www.dredge.game)
 
 <h1 align="center"><em>"Would you kindly star my repos?"</em></h1>
 <h3 align="center">(a.k.a. Featured Projects)</h3>
 
-### 🍽️ [Resmapi](https://github.com/vitorbetmann/resmapi) — Restaurant Management API in Java Spring:
-REST API backend for a shared restaurant management platform, built with Spring Boot and PostgreSQL. Supports user registration, authentication, and role-based profiles (restaurant owner and customer). Containerized with Docker Compose. Developed as part of the FIAP PosTech Java Architecture & Development postgrad program.
+### 🍽️ [Clean Resmapi](https://github.com/vitorbetmann/clean-resmapi) — Restaurant Management API in Clean Architecture:
+REST API backend for a shared restaurant management platform, built with Java 25, Spring Boot, and PostgreSQL. Organized by feature under Clean Architecture, with a framework-free domain layer and use cases that depend only on gateway interfaces, keeping persistence swappable. Centralized RFC 7807 error handling, 99% instruction coverage enforced by a JaCoCo build gate, and Testcontainers-backed integration tests. Containerized with Docker Compose. Developed as part of the FIAP PosTech Java Architecture & Development postgrad program.
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile) — Game Dev Library in C:
 An open-source library with modules and tools to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading. Ideal for quick prototyping (see games [made with Smile](https://github.com/vitorbetmann/made-with-smile)) and supported on macOS, Windows, and Linux.
