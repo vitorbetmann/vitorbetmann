@@ -3,7 +3,7 @@
  
 - 👨‍💻 ***Gameplay***, ***systems***, and ***tools*** programmer
 - 📚 Pursuing a Postgrad Diploma in ***Software Architecture***
-- 🛠️ Working on a [***Final Project***](https://github.com/vitorbetmann/404) for `CS50's Introduction to Web Development with Python and Javascript`
+- 🛠️ Working on a [***Final Project***](https://github.com/vitorbetmann/404) for [CS50's Introduction to Web Development with Python and Javascript](https://cs50.harvard.edu/web/)
 - 📖 Reading [***Chainsaw Man***](https://share.google/T8rIXyRSII2kQPTI7) and [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
 - 🕹️ Playing [***Robocop: Rogue City***](https://teyon.com/games/robocop-rogue-city/) and [***Dredge***](https://www.dredge.game)
 
