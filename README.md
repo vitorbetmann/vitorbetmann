@@ -5,7 +5,7 @@
 - 📚 Pursuing a Postgrad Diploma in ***Software Architecture***
 - 🛠️ Working on a [***Final Project***](https://github.com/vitorbetmann/404) for [CS50's Introduction to Web Development with Python and Javascript](https://cs50.harvard.edu/web/)
 - 📖 Reading [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
-- 🕹️ Playing [***Adventure Communist***](https://hyperhippo.com/games/adventure-communist/), [***Robocop: Rogue City***](https://teyon.com/games/robocop-rogue-city/) and [***Dredge***](https://www.dredge.game)
+- 🕹️ Playing the [***AdVenture***](https://hyperhippo.com/games/adventure-communist/) games, [***Robocop: Rogue City***](https://teyon.com/games/robocop-rogue-city/), and [***Dredge***](https://www.dredge.game)
 
 <h1 align="center"><em>"Would you kindly star my repos?"</em></h1>
 <h3 align="center">(a.k.a. Featured Projects)</h3>
