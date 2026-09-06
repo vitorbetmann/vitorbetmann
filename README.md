@@ -14,7 +14,7 @@
 REST API backend for a shared restaurant management platform, built with Java 25, Spring Boot, and PostgreSQL. Organized by feature under Clean Architecture, with a framework-free domain layer and use cases that depend only on gateway interfaces, keeping persistence swappable. Centralized RFC 7807 error handling, 99% instruction coverage enforced by a JaCoCo build gate, and Testcontainers-backed integration tests. Containerized with Docker Compose. Developed as part of the FIAP PosTech Java Architecture & Development postgrad program.
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile) — Game Dev Library in C:
-An open-source library with modules and tools to streamline common 2D game dev tasks such as managing scenes, simulating particles, and saving/loading. Ideal for quick prototyping (see games [made with Smile](https://github.com/vitorbetmann/made-with-smile)) and supported on macOS, Windows, and Linux.
+An open-source library with modules and tools to streamline common 2D game dev tasks such as managing scenes and simulating particles. Ideal for quick prototyping (see games [made with Smile](https://github.com/vitorbetmann/made-with-smile)) and supported on macOS, Windows, and Linux.
 
 ### 🐮 [Joanna's Diner](https://github.com/vitorbetmann/joannas_diner) — Cooking Game in Unity:
 - #### Download it on [itch.io](https://theojammm.itch.io/joannas-diner)
