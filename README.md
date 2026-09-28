@@ -1,42 +1,54 @@
-<h1 align="center"><em>"Stay awhile and readme!"</em></h1> 
-<h3 align="center">(a.k.a. About Me)</h3>
- 
-- 👨‍💻 ***Gameplay***, ***systems***, and ***tools*** programmer
-- 📚 Pursuing a Postgrad Diploma in ***Software Architecture***
-- 🛠️ Working on a [***Final Project***](https://github.com/vitorbetmann/404) for [CS50's Introduction to Web Development with Python and Javascript](https://cs50.harvard.edu/web/)
+# *"Stay awhile and README!"*
+
+Software engineer who designs and builds systems, from 2D game libraries in C to REST APIs in Java and Spring Boot.
+
+- 🏗️ Pursuing a Postgrad Diploma in ***Software Architecture***
+- 🛠️ Currently building a [***Final Project***](https://github.com/vitorbetmann/404) for [CS50's Introduction to Web Development with Python and Javascript](https://cs50.harvard.edu/web/)
 - 📖 Reading [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
 - 🕹️ Playing [***Darkwood***](https://www.darkwoodgame.com), [***Slay The Spire***](https://www.megacrit.com/games/), [***Robocop: Rogue City***](https://teyon.com/games/robocop-rogue-city/), and [***Dredge***](https://www.dredge.game)
 
-<h1 align="center"><em>"Would you kindly star my repos?"</em></h1>
-<h3 align="center">(a.k.a. Featured Projects)</h3>
+---
 
-### 🍽️ [Clean Resmapi](https://github.com/vitorbetmann/clean-resmapi) — Restaurant Management API in Clean Architecture:
-REST API backend for a shared restaurant management platform, built with Java 25, Spring Boot, and PostgreSQL. Organized by feature under Clean Architecture, with a framework-free domain layer and use cases that depend only on gateway interfaces, keeping persistence swappable. Centralized RFC 7807 error handling, 99% instruction coverage enforced by a JaCoCo build gate, and Testcontainers-backed integration tests. Containerized with Docker Compose. Developed as part of the FIAP PosTech Java Architecture & Development postgrad program.
+# *"Would you kindly check out my projects?"*
 
-### 😊 [Smile](https://github.com/vitorbetmann/smile) — Game Dev Library in C:
-An open-source library with modules and tools to streamline common 2D game dev tasks such as managing scenes and simulating particles. Ideal for quick prototyping (see games [made with Smile](https://github.com/vitorbetmann/made-with-smile)) and supported on macOS, Windows, and Linux.
+### 🍽️ [Clean Resmapi](https://github.com/vitorbetmann/clean-resmapi)
+**Restaurant management REST API**
 
-### 🐮 [Joanna's Diner](https://github.com/vitorbetmann/joannas_diner) — Cooking Game in Unity:
-- #### Download it on [itch.io](https://theojammm.itch.io/joannas-diner)
-Coded core gameplay systems (food crafting, inventory, customer behaviour) and migrated hardcoded recipes to a ScriptableObject-based data system, allowing non-programmers to create and tune recipes in the Inspector. Delivered as a vertical slice, refined through three in-class playtesting rounds. 
+<img src="assets/clean-resmapi.gif" alt="Clean Resmapi demo" width="600">
 
-### 🤖 [EspressoBot and MatchaBot](https://github.com/vitorbetmann/sumobot) — Arduino-based Sumobots:
-Two autonomous robots that won me 1st place at both the McMaster and York University 2024 Robot Sumo Competitions, respectively. There was also CappuccinoBot, but we don't talk about it...
+Built under Clean Architecture with a framework-free domain and swappable persistence. Enforces a 99% JaCoCo coverage gate and Testcontainers-backed integration tests, and ships containerized with Docker Compose.
 
-<h1 align="center"><em>"It's dangerous to code alone! Take these."</em></h1>
-<h3 align="center">(a.k.a. Technical Skills)</h3>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,githubactions" alt="Java, Spring, PostgreSQL, Docker, GitHub Actions" height="40">
 
-### Languages
-![Programming languages image](https://skillicons.dev/icons?i=c,cs,lua,java,js,py)
+---
 
-### Game Dev
-![Game engines image](https://skillicons.dev/icons?i=unity)
+### 😊 [Smile](https://github.com/vitorbetmann/smile)
+**Modular 2D game library in C**
 
-### Web Dev
-![Game engines image](https://skillicons.dev/icons?i=html,css,spring,django)
+<img src="assets/smile.gif" alt="Smile demo" width="600">
 
-### Frameworks and Tools
-![Frameworks and tools image](https://skillicons.dev/icons?i=arduino,docker,git,github,githubactions,postman)
+Independent modules for common 2D tasks like scene management and particle simulation, so projects adopt only what they need. Cross-platform on macOS, Windows, and Linux, and proven in real prototypes ([made with Smile](https://github.com/vitorbetmann/made-with-smile)).
 
-### Databases
-![Databases image](https://skillicons.dev/icons?i=postgres,sqlite)
+<img src="https://skillicons.dev/icons?i=c,git,github" alt="C, Git, GitHub" height="40">
+
+---
+
+### 🐮 [Joanna's Diner](https://github.com/vitorbetmann/joannas_diner)
+**Cooking game in Unity** · [Play on itch.io](https://theojammm.itch.io/joannas-diner)
+
+<img src="assets/joannas-diner.gif" alt="Joanna's Diner gameplay" width="600">
+
+Programmed the core gameplay systems (crafting, inventory, customer behaviour) and moved hardcoded recipes into a data-driven ScriptableObject system that designers tune in the Inspector. Shipped as a vertical slice after three playtesting rounds.
+
+<img src="https://skillicons.dev/icons?i=unity,cs,git" alt="Unity, C#, Git" height="40">
+
+---
+
+### 🤖 [EspressoBot and MatchaBot](https://github.com/vitorbetmann/sumobot)
+**Autonomous Arduino sumobots**
+
+<img src="assets/sumobot.gif" alt="EspressoBot in action" width="600">
+
+Two robots that won 1st place at the McMaster and York University 2024 Robot Sumo Competitions, respectively. There was also CappuccinoBot, but we don't talk about it...
+
+<img src="https://skillicons.dev/icons?i=arduino,c" alt="Arduino, C" height="40">
