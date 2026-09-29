@@ -56,8 +56,19 @@ I'm currently:
 
 # *"It's dangerous to code alone! Let's connect."*
 
-<p align="center">
-  <a href="https://linkedin.com/in/vitorbetmann"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://youtube.com/@vitorbetmann"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://vitorbetmann.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://linkedin.com/in/vitorbetmann"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+      <br><sub>Career stuff, projects, and what I'm learning</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://youtube.com/@vitorbetmann"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+      <br><sub>Project demos and how they were built</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://vitorbetmann.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
+      <br><sub>My games I've made, ready to play</sub>
+    </td>
+  </tr>
+</table>
