@@ -1,28 +1,31 @@
 # *"Stay awhile and README!"*
 
-👋🏻 Hey! I'm Betmann, ***Software Developer***.
+Hey 👋🏻, I'm Betmann! My work spans **games**, **web dev**, and **robotics**.
 
-🏗️ Doing a Postgrad in ***Java Architecture & Development***
+I'm currently:
 
-🛠️ Building a [***Python/Django Project***](https://github.com/vitorbetmann/404)
-
-📖 Reading [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
-
-🕹️ Playing [***Darkwood***](https://www.darkwoodgame.com)
+- 🛠️ **Building** a [full-stack Django app](https://github.com/vitorbetmann/404)
+- 🏗️ **Studying** Java architecture and development in a postgrad
+- ☕ **Unwinding** with [Unity In Action](https://www.manning.com/books/unity-in-action-third-edition) and [Darkwood](https://www.darkwoodgame.com)
+- 💼 **Open to** junior developer roles in Toronto or remote. Always happy to chat!
 
 # *"Would you kindly check out my projects?"*
 
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="assets/clean-resmapi.gif" alt="Clean Resmapi API demo" width="100%">
+      <a href="https://github.com/vitorbetmann/clean-resmapi">
+        <img src="assets/clean-resmapi.gif" alt="Clean Resmapi API demo" width="100%">
+      </a>
       <br>
       <b>🍽️ <a href="https://github.com/vitorbetmann/clean-resmapi">Clean Resmapi</a></b>
       <br>
       Restaurant API in <b><i>Java/Spring Boot</i></b>. Clean Architecture, 99% instruction coverage.
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="assets/smile.gif" alt="Smile game library demo" width="100%">
+      <a href="https://github.com/vitorbetmann/smile">
+        <img src="assets/smile.gif" alt="Smile game library demo" width="100%">
+      </a>
       <br>
       <b>😊 <a href="https://github.com/vitorbetmann/smile">Smile</a></b>
       <br>
@@ -50,3 +53,11 @@
     </td>
   </tr>
 </table>
+
+# *"It's dangerous to code alone! Let's connect."*
+
+<p align="center">
+  <a href="https://linkedin.com/in/vitorbetmann"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://youtube.com/@vitorbetmann"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://vitorbetmann.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
+</p>
