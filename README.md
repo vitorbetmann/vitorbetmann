@@ -28,14 +28,14 @@ Modular 2D game library in C. Cross-platform, used in [real prototypes](https://
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="assets/joannas-diner.gif" alt="Joanna's Diner gameplay" width="350">
+      <img src="assets/joannas-diner.gif" alt="Joanna's Diner gameplay" width="100%">
 
 🐮 **[Joanna's Diner](https://github.com/vitorbetmann/joannas_diner)**<br>
 Unity cooking game, shipped as a vertical slice. [Play on itch.io](https://theojammm.itch.io/joannas-diner).
 
 </td>
     <td width="50%" align="center" valign="top">
-      <img src="assets/sumobot.gif" alt="EspressoBot in action" width="350">
+      <img src="assets/sumobot.gif" alt="EspressoBot in action" width="100%">
 
 🤖 **[EspressoBot & MatchaBot](https://github.com/vitorbetmann/sumobot)**<br>
 Arduino sumobots, 1st place at the 2024 McMaster and York competitions.
