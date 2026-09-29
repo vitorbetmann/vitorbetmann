@@ -1,9 +1,9 @@
 # *"Stay awhile and README!"*
 
-Software developer building everything from C game libraries to Spring Boot APIs to Unity games and Arduino robots, with tests to back them up. I came to code from a film degree, so I care as much about how something feels to use as how it's built.
+Hey 👋🏻, Betmann here! I love blending creative expression with technical efficiency. 
 
-- 🏗️ Pursuing a Postgrad Certificate in ***Java Architecture & Development*** at FIAP
-- 🛠️ Building a [***Python/Django Project***](https://github.com/vitorbetmann/404) <!-- TODO: replace with the project's name or a short description -->
+- 🏗️ Pursuing a Postgrad Certificate in ***Java Architecture & Development***
+- 🛠️ Building a [***Python/Django Project***](https://github.com/vitorbetmann/404)
 - 📖 Reading [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
 - 🕹️ Playing [***Darkwood***](https://www.darkwoodgame.com)
 
@@ -18,30 +18,34 @@ Software developer building everything from C game libraries to Spring Boot APIs
       <br>
       <b>🍽️ <a href="https://github.com/vitorbetmann/clean-resmapi">Clean Resmapi</a></b>
       <br>
-      Restaurant management API in Java and Spring Boot. 20 endpoints, Clean Architecture, 99% test coverage with Testcontainers.
+      Restaurant API in <b><i>Java/Spring Boot</i></b>. Clean Architecture, 99% instruction coverage.
     </td>
     <td width="50%" align="center" valign="top">
       <img src="assets/smile.gif" alt="Smile game library demo" width="100%">
       <br>
       <b>😊 <a href="https://github.com/vitorbetmann/smile">Smile</a></b>
       <br>
-      2D game library in C with scenes, particles, and logging. 260+ tests simulating memory and I/O failures, CI on three OSes. Proven by <a href="https://github.com/vitorbetmann/made-with-smile">three classic game remakes</a>.
+      2D game library in <b><i>C</i></b>. 260+ tests, CI on three OSes. Used to build <a href="https://github.com/vitorbetmann/made-with-smile">three game remakes</a>.
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="assets/joannas-diner.gif" alt="Joanna's Diner gameplay" width="100%">
+      <a href="https://github.com/tiffne/Joannas-Diner">
+        <img src="assets/joannas-diner.gif" alt="Joanna's Diner gameplay" width="100%">
+      </a>
       <br>
       <b>🐮 <a href="https://github.com/tiffne/Joannas-Diner">Joanna's Diner</a></b>
       <br>
-      2D cooking game in Unity and C#, built by a team of five at York University. As gameplay programmer, I built the crafting, inventory, and customer systems. <a href="https://theojammm.itch.io/joannas-diner">Download it on itch.io</a>.
+      Cooking game in <b><i>Unity/C#</i></b>. Gameplay programmer on a five-person student team. <a href="https://theojammm.itch.io/joannas-diner">Play it on itch.io</a>.
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="assets/sumobot.gif" alt="EspressoBot in action" width="100%">
+      <a href="https://github.com/vitorbetmann/sumobot">
+        <img src="assets/sumobot.gif" alt="EspressoBot in action" width="100%">
+      </a>
       <br>
       <b>🤖 <a href="https://github.com/vitorbetmann/sumobot">EspressoBot & MatchaBot</a></b>
       <br>
-      Autonomous Arduino sumobots. 1st place at an inter-university competition against McMaster and at York's internal competition in 2024.
+      Autonomous Arduino sumobots. Won an inter-university and a club competition in 2024.
     </td>
   </tr>
 </table>
