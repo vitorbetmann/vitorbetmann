@@ -60,15 +60,15 @@ I'm currently:
   <tr>
     <td align="center" width="33%">
       <a href="https://linkedin.com/in/vitorbetmann"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-      <br><sub>Career stuff, projects, and what I'm learning</sub>
+      <br><sub>Feel Free To Reach Out!</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://youtube.com/@vitorbetmann"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-      <br><sub>Project demos and how they were built</sub>
+      <br><sub>Tech And Cinema Videos.</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://vitorbetmann.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
-      <br><sub>My games I've made, ready to play</sub>
+      <br><sub>In The Mood For Games?</sub>
     </td>
   </tr>
 </table>
