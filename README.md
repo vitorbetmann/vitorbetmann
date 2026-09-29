@@ -7,8 +7,6 @@ Software engineer building across the stack, from C game libraries to Spring Boo
 - 📖 Reading [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
 - 🕹️ Playing [***Darkwood***](https://www.darkwoodgame.com)
 
-**Tech:** C · Java · Spring Boot · C# · Unity · PostgreSQL · Docker · Testcontainers · Arduino
-
 <br>
 
 # *"Would you kindly check out my projects?"*
@@ -16,7 +14,7 @@ Software engineer building across the stack, from C game libraries to Spring Boo
 ### 🍽️ [Clean Resmapi](https://github.com/vitorbetmann/clean-resmapi) - Restaurant Management API in Java & Spring
 
 <div align="center">
-  <img src="assets/clean-resmapi.gif" alt="Clean Resmapi demo" width="80%">
+  <img src="assets/clean-resmapi.gif" alt="Clean Resmapi demo" width="90%">
 </div>
 
 - Built under Clean Architecture with a framework-free domain and swappable persistence. Enforces a 99% JaCoCo coverage gate and Testcontainers-backed integration tests, and ships containerized with Docker Compose.
@@ -26,7 +24,7 @@ Software engineer building across the stack, from C game libraries to Spring Boo
 ### 😊 [Smile](https://github.com/vitorbetmann/smile) - 2D Game Dev Library in C
 
 <div align="center">
-  <img src="assets/smile.gif" alt="Smile demo" width="80%">
+  <img src="assets/smile.gif" alt="Smile demo" width="90%">
 </div>
 
 - Independent modules for common 2D tasks like scene management and particle simulation, so projects adopt only what they need. Cross-platform on macOS, Windows, and Linux, and proven in real prototypes ([made with Smile](https://github.com/vitorbetmann/made-with-smile)).
@@ -36,7 +34,7 @@ Software engineer building across the stack, from C game libraries to Spring Boo
 ### 🐮 [Joanna's Diner](https://github.com/vitorbetmann/joannas_diner) - Cooking Game in Unity
 
 <div align="center">
-  <img src="assets/joannas-diner.gif" alt="Joanna's Diner gameplay" width="80%">
+  <img src="assets/joannas-diner.gif" alt="Joanna's Diner gameplay" width="90%">
 </div>
 
 - A shipped vertical slice, refined over three playtesting rounds. [Play it on itch.io](https://theojammm.itch.io/joannas-diner).
@@ -48,7 +46,7 @@ Software engineer building across the stack, from C game libraries to Spring Boo
 ### 🤖 [EspressoBot and MatchaBot](https://github.com/vitorbetmann/sumobot) - Arduino-based Autonomous Sumobots
 
 <div align="center">
-  <img src="assets/sumobot.gif" alt="EspressoBot in action" width="80%">
+  <img src="assets/sumobot.gif" alt="EspressoBot in action" width="90%">
 </div>
 
 - Two autonomous sumobots that took 1st place at the 2024 McMaster and York University Robot Sumo Competitions.
