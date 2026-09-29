@@ -1,6 +1,5 @@
 # *"Stay awhile and README!"*
 
-Hey 👋🏻, Betmann here! I love blending creative expression with technical efficiency. 
 
 - 🏗️ Pursuing a Postgrad Certificate in ***Java Architecture & Development***
 - 🛠️ Building a [***Python/Django Project***](https://github.com/vitorbetmann/404)
