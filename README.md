@@ -1,13 +1,14 @@
 # *"Stay awhile and README!"*
 
-👋🏻 I'm Betmann, Software Developer!
+👋🏻 Hey! I'm Betmann, ***Software Developer***.
 
-I'm currently:
+🏗️ Doing a Postgrad in ***Java Architecture & Development***
 
-- 🏗️ Pursuing a Postgrad Certificate in ***Java Architecture & Development***
-- 🛠️ Building a [***Python/Django Project***](https://github.com/vitorbetmann/404)
-- 📖 Reading [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
-- 🕹️ Playing [***Darkwood***](https://www.darkwoodgame.com)
+🛠️ Building a [***Python/Django Project***](https://github.com/vitorbetmann/404)
+
+📖 Reading [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
+
+🕹️ Playing [***Darkwood***](https://www.darkwoodgame.com)
 
 # *"Would you kindly check out my projects?"*
 
