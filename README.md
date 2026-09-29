@@ -12,14 +12,14 @@ Software engineer building across the stack, from C game libraries to Spring Boo
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="assets/sumobot.gif" alt="Clean Resmapi demo" width="350">
+      <img src="assets/sumobot.gif" alt="Clean Resmapi demo" width="100%">
 
 🍽️ **[Clean Resmapi](https://github.com/vitorbetmann/clean-resmapi)**<br>
 Restaurant API in Java & Spring. Clean Architecture, 99% coverage gate.
 
 </td>
     <td width="50%" align="center" valign="top">
-      <img src="assets/sumobot.gif" alt="Smile demo" width="350">
+      <img src="assets/sumobot.gif" alt="Smile demo" width="100%">
 
 😊 **[Smile](https://github.com/vitorbetmann/smile)**<br>
 Modular 2D game library in C. Cross-platform, used in [real prototypes](https://github.com/vitorbetmann/made-with-smile).
