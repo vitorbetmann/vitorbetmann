@@ -3,7 +3,7 @@
 Software engineer building across the stack, from C game libraries to Spring Boot APIs to Unity games and Arduino robots.
 
 - 🏗️ Pursuing a Postgrad Diploma in ***Software Architecture***
-- 🛠️ Building my [***postgrad capstone***](https://github.com/vitorbetmann/404)
+- 🛠️ Building a [***Python/Django Project***](https://github.com/vitorbetmann/404)
 - 📖 Reading [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
 - 🕹️ Playing [***Darkwood***](https://www.darkwoodgame.com)
 
