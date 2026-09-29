@@ -6,7 +6,7 @@ I'm currently:
 
 - 🛠️ **Building** a [full-stack Django app](https://github.com/vitorbetmann/404)
 - 🏗️ **Studying** Java architecture and development in a postgrad
-- ☕ **Unwinding** with [Unity In Action](https://www.manning.com/books/unity-in-action-third-edition) and [Darkwood](https://www.darkwoodgame.com)
+- ☕ **Unwinding** with [Darkwood](https://www.darkwoodgame.com)
 - 💼 **Open to** junior developer roles in Toronto or remote. Always happy to chat!
 
 # *"Would you kindly check out my projects?"*
