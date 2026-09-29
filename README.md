@@ -1,11 +1,13 @@
 # *"Stay awhile and README!"*
 
-Software engineer who designs and builds systems, from 2D game libraries in C to REST APIs in Java and Spring Boot.
+Software engineer building across the stack, from C game libraries to Spring Boot APIs to Unity games and Arduino robots.
 
 - 🏗️ Pursuing a Postgrad Diploma in ***Software Architecture***
-- 🛠️ Currently building a [***Final Project***](https://github.com/vitorbetmann/404)
+- 🛠️ Building my [***postgrad capstone***](https://github.com/vitorbetmann/404)
 - 📖 Reading [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
 - 🕹️ Playing [***Darkwood***](https://www.darkwoodgame.com)
+
+**Tech:** C · Java · Spring Boot · C# · Unity · PostgreSQL · Docker · Testcontainers · Arduino
 
 <br>
 
@@ -13,7 +15,9 @@ Software engineer who designs and builds systems, from 2D game libraries in C to
 
 ### 🍽️ [Clean Resmapi](https://github.com/vitorbetmann/clean-resmapi) - Restaurant Management API in Java & Spring
 
-<img src="assets/clean-resmapi.gif" alt="Clean Resmapi demo" width="80%">
+<div align="center">
+  <img src="assets/clean-resmapi.gif" alt="Clean Resmapi demo" width="80%">
+</div>
 
 - Built under Clean Architecture with a framework-free domain and swappable persistence. Enforces a 99% JaCoCo coverage gate and Testcontainers-backed integration tests, and ships containerized with Docker Compose.
 
@@ -21,7 +25,9 @@ Software engineer who designs and builds systems, from 2D game libraries in C to
 
 ### 😊 [Smile](https://github.com/vitorbetmann/smile) - 2D Game Dev Library in C
 
-<img src="assets/smile.gif" alt="Smile demo" width="100%">
+<div align="center">
+  <img src="assets/smile.gif" alt="Smile demo" width="80%">
+</div>
 
 - Independent modules for common 2D tasks like scene management and particle simulation, so projects adopt only what they need. Cross-platform on macOS, Windows, and Linux, and proven in real prototypes ([made with Smile](https://github.com/vitorbetmann/made-with-smile)).
 
@@ -29,17 +35,13 @@ Software engineer who designs and builds systems, from 2D game libraries in C to
 
 ### 🐮 [Joanna's Diner](https://github.com/vitorbetmann/joannas_diner) - Cooking Game in Unity
 
-
 <div align="center">
   <img src="assets/joannas-diner.gif" alt="Joanna's Diner gameplay" width="80%">
 </div>
 
-
-- Programmed the core gameplay systems (crafting, inventory, customer behaviour)
-- Moved hardcoded recipes into a data-driven ScriptableObject system that designers tune in the Inspector
-- Shipped as a vertical slice after three playtesting rounds
-
-<!-- [Play on itch.io](https://theojammm.itch.io/joannas-diner) -->
+- A shipped vertical slice, refined over three playtesting rounds. [Play it on itch.io](https://theojammm.itch.io/joannas-diner).
+- Built the core systems: crafting, inventory, and customer behavior.
+- Replaced hardcoded recipes with a data-driven ScriptableObject system that designers tune directly in the Inspector.
 
 ---
 
@@ -49,6 +51,5 @@ Software engineer who designs and builds systems, from 2D game libraries in C to
   <img src="assets/sumobot.gif" alt="EspressoBot in action" width="80%">
 </div>
 
-- Coded 2 bots that won 1st place at the McMaster and York University 2024 Robot Sumo Competitions
+- Two autonomous sumobots that took 1st place at the 2024 McMaster and York University Robot Sumo Competitions.
 - There was also CappuccinoBot, but we don't talk about it...
-
