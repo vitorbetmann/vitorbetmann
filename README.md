@@ -6,8 +6,6 @@
 - 📖 Reading [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
 - 🕹️ Playing [***Darkwood***](https://www.darkwoodgame.com)
 
-<br>
-
 # *"Would you kindly check out my projects?"*
 
 <table width="100%">
