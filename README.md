@@ -1,5 +1,8 @@
 # *"Stay awhile and README!"*
 
+👋🏻 I'm Betmann, Software Developer!
+
+I'm currently:
 
 - 🏗️ Pursuing a Postgrad Certificate in ***Java Architecture & Development***
 - 🛠️ Building a [***Python/Django Project***](https://github.com/vitorbetmann/404)
