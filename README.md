@@ -7,6 +7,8 @@ Software engineer building across the stack, from C game libraries to Spring Boo
 - 📖 Reading [***Unity In Action***](https://www.manning.com/books/unity-in-action-third-edition)
 - 🕹️ Playing [***Darkwood***](https://www.darkwoodgame.com)
 
+<br>
+
 # *"Would you kindly check out my projects?"*
 
 <table width="100%">
@@ -15,14 +17,16 @@ Software engineer building across the stack, from C game libraries to Spring Boo
       <img src="assets/sumobot.gif" alt="Clean Resmapi demo" width="100%">
 
 🍽️ **[Clean Resmapi](https://github.com/vitorbetmann/clean-resmapi)**<br>
-Restaurant API in Java & Spring. Clean Architecture, 99% coverage gate.
+Restaurant API in Java and Spring Boot. 20 endpoints, Clean Architecture, 99% test coverage.
 
 </td>
     <td width="50%" align="center" valign="top">
       <img src="assets/sumobot.gif" alt="Smile demo" width="100%">
 
 😊 **[Smile](https://github.com/vitorbetmann/smile)**<br>
-Modular 2D game library in C. Cross-platform, used in [real prototypes](https://github.com/vitorbetmann/made-with-smile).
+
+2D game library in C with scenes, particles, and logging. Proven by [three classic game remakes](https://github.com/vitorbetmann/made-with-smile), 260+ tests, 
+and CI on macOS, Windows, and Linux.
 
 </td>
   </tr>
@@ -31,14 +35,15 @@ Modular 2D game library in C. Cross-platform, used in [real prototypes](https://
       <img src="assets/joannas-diner.gif" alt="Joanna's Diner gameplay" width="100%">
 
 🐮 **[Joanna's Diner](https://github.com/vitorbetmann/joannas_diner)**<br>
-Unity cooking game, shipped as a vertical slice. [Play on itch.io](https://theojammm.itch.io/joannas-diner).
+
+2D cooking game in Unity and C#, built by a team of five at York. I was the gameplay programmer. Download it on itch.io.
 
 </td>
     <td width="50%" align="center" valign="top">
       <img src="assets/sumobot.gif" alt="EspressoBot in action" width="100%">
 
 🤖 **[EspressoBot & MatchaBot](https://github.com/vitorbetmann/sumobot)**<br>
-Arduino sumobots, 1st place at the 2024 McMaster and York competitions.
+Arduino sumobots. 1st place at the 2024 McMaster and York competitions.
 
 </td>
   </tr>
