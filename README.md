@@ -59,15 +59,15 @@ I'm currently:
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://linkedin.com/in/vitorbetmann"><img src="https://api.iconify.design/fa6-brands/linkedin.svg?color=%230A66C2" alt="LinkedIn" width="48"></a>
+      <a href="https://linkedin.com/in/vitorbetmann"><img src="https://api.iconify.design/cib/linkedin.svg?color=%230A66C2" alt="LinkedIn" width="48" height="48"></a>
       <br>Feel free to reach out!
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://youtube.com/@vitorbetmann"><img src="https://api.iconify.design/fa6-brands/youtube.svg?color=%23FF0000" alt="YouTube" width="48"></a>
+      <a href="https://youtube.com/@vitorbetmann"><img src="https://api.iconify.design/cib/youtube.svg?color=%23FF0000" alt="YouTube" width="48" height="48"></a>
       <br>Tech and cinema videos.
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://vitorbetmann.itch.io/"><img src="https://api.iconify.design/fa6-brands/itch-io.svg?color=%23FA5C5C" alt="itch.io" width="48"></a>
+      <a href="https://vitorbetmann.itch.io/"><img src="https://api.iconify.design/cib/itch-io.svg?color=%23FA5C5C" alt="itch.io" width="48" height="48"></a>
       <br>In the mood for games?
     </td>
   </tr>
