@@ -11,9 +11,9 @@ I'm currently:
 
 # *"Would you kindly check out my projects?"*
 
-<table width="100%">
+<table align="left" width="420">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td align="center" valign="top">
       <a href="https://github.com/vitorbetmann/clean-resmapi">
         <img src="assets/clean-resmapi.gif" alt="Clean Resmapi API demo" width="100%">
       </a>
@@ -22,7 +22,12 @@ I'm currently:
       <br>
       Restaurant API in <b><i>Java/Spring Boot</i></b> using Clean Architecture. Built as postgrad assignment.
     </td>
-    <td width="50%" align="center" valign="top">
+  </tr>
+</table>
+
+<table align="left" width="420">
+  <tr>
+    <td align="center" valign="top">
       <a href="https://github.com/vitorbetmann/smile">
         <img src="assets/smile.gif" alt="Smile game library demo" width="100%">
       </a>
@@ -32,8 +37,11 @@ I'm currently:
       2D game library in <b><i>C</i></b> with Scene Manager, Particle System, and Logging modules. Available on Windows, macOS, and Linux. Used to build <a href="https://github.com/vitorbetmann/made-with-smile">three game remakes</a>.
     </td>
   </tr>
+</table>
+
+<table align="left" width="420">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td align="center" valign="top">
       <a href="https://github.com/tiffne/Joannas-Diner">
         <img src="assets/joannas-diner.gif" alt="Joanna's Diner gameplay" width="100%">
       </a>
@@ -42,7 +50,12 @@ I'm currently:
       <br>
       Cooking game in <b><i>Unity/C#</i></b> where you play a Cow in disguise working to flee a city overtaken by predators. <a href="https://theojammm.itch.io/joannas-diner">Download it on itch.io</a>.
     </td>
-    <td width="50%" align="center" valign="top">
+  </tr>
+</table>
+
+<table align="left" width="420">
+  <tr>
+    <td align="center" valign="top">
       <a href="https://github.com/vitorbetmann/sumobot">
         <img src="assets/sumobot.gif" alt="EspressoBot in action" width="100%">
       </a>
@@ -53,6 +66,8 @@ I'm currently:
     </td>
   </tr>
 </table>
+
+<br clear="both">
 
 # *"It's dangerous to code alone! Let's connect."*
 
