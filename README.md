@@ -11,63 +11,56 @@ I'm currently:
 
 # *"Would you kindly check out my projects?"*
 
-<table align="left" width="420">
+<table width="100%">
   <tr>
-    <td align="center" valign="top">
+    <td width="35%" align="center" valign="middle">
       <a href="https://github.com/vitorbetmann/clean-resmapi">
         <img src="assets/clean-resmapi.gif" alt="Clean Resmapi API demo" width="100%">
       </a>
-      <br>
+    </td>
+    <td width="65%" valign="middle">
       <b>🍽️ <a href="https://github.com/vitorbetmann/clean-resmapi">Clean Resmapi</a></b>
       <br>
       Restaurant API in <b><i>Java/Spring Boot</i></b> using Clean Architecture. Built as postgrad assignment.
     </td>
   </tr>
-</table>
-
-<table align="left" width="420">
   <tr>
-    <td align="center" valign="top">
+    <td width="35%" align="center" valign="middle">
       <a href="https://github.com/vitorbetmann/smile">
         <img src="assets/smile.gif" alt="Smile game library demo" width="100%">
       </a>
-      <br>
+    </td>
+    <td width="65%" valign="middle">
       <b>😊 <a href="https://github.com/vitorbetmann/smile">Smile</a></b>
       <br>
       2D game library in <b><i>C</i></b> with Scene Manager, Particle System, and Logging modules. Available on Windows, macOS, and Linux. Used to build <a href="https://github.com/vitorbetmann/made-with-smile">three game remakes</a>.
     </td>
   </tr>
-</table>
-
-<table align="left" width="420">
   <tr>
-    <td align="center" valign="top">
+    <td width="35%" align="center" valign="middle">
       <a href="https://github.com/tiffne/Joannas-Diner">
         <img src="assets/joannas-diner.gif" alt="Joanna's Diner gameplay" width="100%">
       </a>
-      <br>
+    </td>
+    <td width="65%" valign="middle">
       <b>🐮 <a href="https://github.com/tiffne/Joannas-Diner">Joanna's Diner</a></b>
       <br>
       Cooking game in <b><i>Unity/C#</i></b> where you play a Cow in disguise working to flee a city overtaken by predators. <a href="https://theojammm.itch.io/joannas-diner">Download it on itch.io</a>.
     </td>
   </tr>
-</table>
-
-<table align="left" width="420">
   <tr>
-    <td align="center" valign="top">
+    <td width="35%" align="center" valign="middle">
       <a href="https://github.com/vitorbetmann/sumobot">
         <img src="assets/sumobot.gif" alt="EspressoBot in action" width="100%">
       </a>
-      <br>
+    </td>
+    <td width="65%" valign="middle">
       <b>🤖 <a href="https://github.com/vitorbetmann/sumobot">EspressoBot & MatchaBot</a></b>
       <br>
       Autonomous <b><i>Arduino</i></b> sumobots that won the McMaster and the York University sumobot competitions in 2024. There was also CappuccinoBot but we don't talk about it...
     </td>
   </tr>
 </table>
-
-<br clear="both">
 
 # *"It's dangerous to code alone! Let's connect."*
 
