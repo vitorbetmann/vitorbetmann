@@ -17,6 +17,7 @@ I'm currently:
       <h3>🍽️ <a href="https://github.com/vitorbetmann/clean-resmapi">Clean Resmapi</a></h3>
       <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
       <br><br>
       <a href="https://github.com/vitorbetmann/clean-resmapi">
         <img src="assets/clean-resmapi.gif" alt="Clean Resmapi API demo" width="100%">
@@ -27,6 +28,7 @@ I'm currently:
     <td width="50%" align="center" valign="top">
       <h3>😊 <a href="https://github.com/vitorbetmann/smile">Smile</a></h3>
       <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C">
+      <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" alt="CMake">
       <br><br>
       <a href="https://github.com/vitorbetmann/smile">
         <img src="assets/smile.gif" alt="Smile game library demo" width="100%">
