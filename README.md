@@ -57,7 +57,7 @@ I'm currently:
     <td width="55%" valign="middle">
       <b>🤖 <a href="https://github.com/vitorbetmann/sumobot">EspressoBot & MatchaBot</a></b>
       <br>
-      Autonomous <b><i>Arduino</i></b> sumobots that won the McMaster and the York University sumobot competitions in 2024. There was also CappuccinoBot but we don't talk about it...
+      Autonomous <b><i>Arduino/C++</i></b> sumobots that won the McMaster and the York University sumobot competitions in 2024.
     </td>
   </tr>
 </table>
