@@ -40,7 +40,7 @@ I'm currently:
       <br>
       <b>🐮 <a href="https://github.com/tiffne/Joannas-Diner">Joanna's Diner</a></b>
       <br>
-      Cooking game in <b><i>Unity/C#</i></b>. You play a Cow in disguise trying to make money to flee a city overtaken by predators. <a href="https://theojammm.itch.io/joannas-diner">Download it on itch.io</a>.
+      Cooking game in <b><i>Unity/C#</i></b> where you play a Cow in disguise working to flee a city overtaken by predators. <a href="https://theojammm.itch.io/joannas-diner">Download it on itch.io</a>.
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/vitorbetmann/sumobot">
@@ -49,7 +49,7 @@ I'm currently:
       <br>
       <b>🤖 <a href="https://github.com/vitorbetmann/sumobot">EspressoBot & MatchaBot</a></b>
       <br>
-      Autonomous <i><b>Arduino</i></b> sumobots. Won the McMaster and the York University sumobot competitions in 2024. There was also CappuccinoBot but we don't talk about it...
+      Autonomous <b><i>Arduino</i></b> sumobots that won the McMaster and the York University sumobot competitions in 2024. There was also CappuccinoBot but we don't talk about it...
     </td>
   </tr>
 </table>
