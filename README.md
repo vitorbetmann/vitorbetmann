@@ -20,7 +20,7 @@ I'm currently:
       <br>
       <b>🍽️ <a href="https://github.com/vitorbetmann/clean-resmapi">Clean Resmapi</a></b>
       <br>
-      Restaurant API in <b><i>Java/Spring Boot</i></b>. Clean Architecture, 99% instruction coverage.
+      Restaurant API in <b><i>Java/Spring Boot</i></b> using Clean Architecture. Built as postgrad assignment.
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/vitorbetmann/smile">
@@ -29,7 +29,7 @@ I'm currently:
       <br>
       <b>😊 <a href="https://github.com/vitorbetmann/smile">Smile</a></b>
       <br>
-      2D game library in <b><i>C</i></b>. 260+ tests, CI on three OSes. Used to build <a href="https://github.com/vitorbetmann/made-with-smile">three game remakes</a>.
+      2D game library in <b><i>C</i></b> with Scene Manager, Particle System, and Logging modules. Available on Windows, macOS, and Linux. Used to build <a href="https://github.com/vitorbetmann/made-with-smile">three game remakes</a>.
     </td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@ I'm currently:
       <br>
       <b>🐮 <a href="https://github.com/tiffne/Joannas-Diner">Joanna's Diner</a></b>
       <br>
-      Cooking game in <b><i>Unity/C#</i></b>. Gameplay programmer on a five-person student team. <a href="https://theojammm.itch.io/joannas-diner">Play it on itch.io</a>.
+      Cooking game in <b><i>Unity/C#</i></b>. You play a Cow in disguise trying to make money to flee a city overtaken by predators. <a href="https://theojammm.itch.io/joannas-diner">Download it on itch.io</a>.
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/vitorbetmann/sumobot">
@@ -49,7 +49,7 @@ I'm currently:
       <br>
       <b>🤖 <a href="https://github.com/vitorbetmann/sumobot">EspressoBot & MatchaBot</a></b>
       <br>
-      Autonomous Arduino sumobots. Won an inter-university and a club competition in 2024.
+      Autonomous <i><b>Arduino</i></b> sumobots. Won the McMaster and the York University sumobot competitions in 2024. There was also CappuccinoBot but we don't talk about it...
     </td>
   </tr>
 </table>
