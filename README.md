@@ -33,7 +33,7 @@ I'm currently:
     <td width="55%" valign="middle">
       <b>😊 <a href="https://github.com/vitorbetmann/smile">Smile</a></b>
       <br>
-      2D game development library in <b><i>C</i></b>, available on Windows, macOS, and Linux. Used to build <a href="https://github.com/vitorbetmann/made-with-smile">three game remakes</a>.
+      2D game development library in <b><i>C</i></b>, available on Windows, macOS, and Linux. Used to build <a href="https://github.com/vitorbetmann/made-with-smile">three classics' remakes</a>.
     </td>
   </tr>
   <tr>
