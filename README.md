@@ -33,7 +33,7 @@ I'm currently:
     <td width="55%" valign="middle">
       <b>😊 <a href="https://github.com/vitorbetmann/smile">Smile</a></b>
       <br>
-      2D game development library in <b><i>C</i></b>, available on Windows, macOS, and Linux. Used to build <a href="https://github.com/vitorbetmann/made-with-smile">three classics' remakes</a>.
+      Modular 2D game dev library in <b><i>C</i></b>. Available on Windows, macOS, and Linux. Used to build <a href="https://github.com/vitorbetmann/made-with-smile">three classics' remakes</a>.
     </td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ I'm currently:
     <td width="55%" valign="middle">
       <b>🤖 <a href="https://github.com/vitorbetmann/sumobot">EspressoBot & MatchaBot</a></b>
       <br>
-      Autonomous <b><i>Arduino/C++</i></b> sumobots that won the McMaster and the York U competitions in 2024.
+      Autonomous <b><i>Arduino/C++</i></b> sumobots that won the McMaster and the York University 2024 competitions.
     </td>
   </tr>
 </table>
