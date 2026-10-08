@@ -4,7 +4,7 @@ Hey 👋🏻, I'm Betmann! My work spans **games**, **web dev**, and **robotics*
 
 I'm currently:
 
-- 🛠️ **Building** a [full-stack Django app](https://github.com/vitorbetmann/404)
+- 🛠️ **Building** a [game in Lua/LÖVE](https://github.com/vitorbetmann/404)
 - 🏗️ **Studying** Java architecture and development in a postgrad
 - ☕ **Unwinding** with [Darkwood](https://www.darkwoodgame.com)
 - 💼 **Open to** junior developer roles in Toronto or remote. Always happy to chat!
