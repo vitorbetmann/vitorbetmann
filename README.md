@@ -1,6 +1,6 @@
 # *"Stay awhile and README!"*
 
-Hey 👋🏻, I'm Betmann! My work spans **games**, **web dev**, and **robotics**.
+Hey 👋🏻, I'm Betmann, game programmer!
 
 I'm currently:
 
@@ -54,20 +54,6 @@ I'm currently:
       <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" alt="C#">
       <br><br>
       Cooking game where you play a Cow in disguise working to flee a city overtaken by predators. <a href="https://theojammm.itch.io/joannas-diner">Download it on itch.io</a>.
-    </td>
-  </tr>
-  <tr>
-    <td width="45%" align="center" valign="middle">
-      <a href="https://github.com/vitorbetmann/sumobot">
-        <img src="assets/sumobot.gif" alt="EspressoBot in action" width="100%">
-      </a>
-    </td>
-    <td width="55%" valign="middle">
-      <h3>🤖 <a href="https://github.com/vitorbetmann/sumobot">EspressoBot & MatchaBot</a></h3>
-      <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white" alt="Arduino">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++">
-      <br><br>
-      Autonomous sumobots that won the McMaster and the York University 2024 competitions.
     </td>
   </tr>
 </table>
