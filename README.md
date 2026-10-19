@@ -72,7 +72,7 @@ I'm currently:
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://vitorbetmann.itch.io/"><img src="https://api.iconify.design/cib/itch-io.svg?color=%23FA5C5C" alt="itch.io" width="48" height="48"></a>
-      <br>In the mood for games?
+      <br>In the mood for playing?
     </td>
   </tr>
 </table>
