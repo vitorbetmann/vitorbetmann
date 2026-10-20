@@ -5,9 +5,9 @@ Hey 👋🏻, I'm Betmann, game programmer!
 I'm currently:
 
 - 🛠️ **Building** a [game in Lua/LÖVE](https://github.com/vitorbetmann/404)
-- 🏗️ **Studying** Java architecture and development in a postgrad
-- ☕ **Unwinding** with [Darkwood](https://www.darkwoodgame.com)
-- 💼 **Open to** junior developer roles in Toronto or remote. Always happy to chat!
+- 🏗️ **Studying** software architecture in a postgrad
+- ☕ **Playing** [Darkwood](https://www.darkwoodgame.com)
+- 💼 **Open to** junior developer roles in Toronto or remote!
 
 # *"Would you kindly check out my projects?"*
 
