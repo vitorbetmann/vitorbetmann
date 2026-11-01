@@ -6,7 +6,7 @@ I'm currently:
 
 - 🛠️ **Building** a [game in Lua/LÖVE](https://github.com/vitorbetmann/404)
 - 🏗️ **Studying** software architecture in a postgrad
-- ☕ **Playing** [Darkwood](https://www.darkwoodgame.com)
+- ☕ **Playing** [Mina the Hollower](https://www.yachtclubgames.com/games/mina-the-hollower) and [Darkwood](https://www.darkwoodgame.com)
 - 💼 **Open to** junior developer roles in Toronto or remote!
 
 # *"Would you kindly check out my projects?"*
